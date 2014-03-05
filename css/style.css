@@ -31,16 +31,12 @@ body {
 	position:relative;
 	min-width:960px;
 	background: #000;
-	/*background: url(../images/bg_body.jpg) center 0 no-repeat #d6bba0;*/
-	background-image: url(../images/bg_body.jpg);
-	background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-position: top left;
-   -webkit-background-size: cover;
-   -o-background-size: cover; 
-   -moz-background-size: cover;  
-   background-size: cover;
-
+    background:url(../images/bg_body.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
 }
 
 .ic, .ic a {
