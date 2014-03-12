@@ -14,7 +14,7 @@
 									 <li><a href="index-2.html">Galeria</a></li>
 						  <li><a>Series</a>
                           	  <ul>
-												<li><a href="./series.html"> Audio</a></li>
+												<li><a href="./series_audio.php">Audio</a></li>
 												<li><a href="./series_video.php">Video</a></li>
 										
 								</ul></li>
