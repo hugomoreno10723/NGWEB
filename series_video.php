@@ -42,41 +42,7 @@
      </head>
      <body  class="">
 <!--==============================header=================================-->
- <header> 
-  <div class="container_12">
-    <div class="grid_12"> 
-    <h1><a href="index.html"><img src="images/logo.png" alt="Nueva Generación"></a> </h1>
-          
-         
-           <div class="clear"></div>
-      </div>
-<div class="menu_block">
-           <nav  class="" >
-            <ul class="sf-menu">
-									 <li class="current"><a href="index.html">Inicio</a></li>
-									 <li class="with_ul"><a href="index-1.html">Música</a>
-									   <ul>
-												<li><a href="#"> Agency</a></li>
-												<li><a href="#">News</a></li>
-										 <li><a href="#">Team</a></li>
-										 </ul>
-									 </li>
-									 <li><a href="index-2.html">Galeria</a></li>
-						  <li><a href=".">Series</a>
-                          	  <ul>
-												<li><a href="./series.html"> Audio</a></li>
-												<li><a href="./series_video.html">Video</a></li>
-										
-								</ul></li>
-									 <li><a href="index-4.html">Biblicomania</a></li>
-									 
-								 </ul>
-              </nav>
-           <div class="clear"></div>
-           </div>
-           <div class="clear"></div>
-          </div>
-</header>
+ <?php include('./includes/header.php'); ?>
 
 <div class="main">
 <!--=======content================================-->
@@ -90,7 +56,7 @@
             <div class="mask">
              <h2>Temas adicionales</h2>
              <p>Visualiza los temas que tenemos en esta sección </p>
-                 <a href="./video_temasadicionales.html" class="info" target="_self">Ver más</a>
+                 <a href="./videos_temasadicionales.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>
@@ -106,7 +72,7 @@
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/gorra2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Tarde de gorra</h2>
              <p>Visualiza el tema que Raúl Borboa compartió durante el evento.</p>
-                 <a href="./video_tardegorra.html" class="info" target="_self">Ver más</a>
+                 <a href="./videos_tardegorra.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>

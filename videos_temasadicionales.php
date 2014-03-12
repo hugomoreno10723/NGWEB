@@ -42,56 +42,22 @@
      </head>
      <body  class="">
 <!--==============================header=================================-->
- <header> 
-  <div class="container_12">
-    <div class="grid_12"> 
-    <h1><a href="index.html"><img src="images/logo.png" alt="Nueva Generación"></a> </h1>
-          
-         
-           <div class="clear"></div>
-      </div>
-<div class="menu_block">
-           <nav  class="" >
-            <ul class="sf-menu">
-									 <li class="current"><a href="index.html">Inicio</a></li>
-									 <li class="with_ul"><a href="index-1.html">Música</a>
-									   <ul>
-												<li><a href="#"> Agency</a></li>
-												<li><a href="#">News</a></li>
-										 <li><a href="#">Team</a></li>
-										 </ul>
-									 </li>
-									 <li><a href="index-2.html">Galeria</a></li>
-						  <li><a href=".">Series</a>
-                          	  <ul>
-												<li><a href="./series.html"> Audio</a></li>
-												<li><a href="./series_video.html">Video</a></li>
-										
-								</ul></li>
-									 <li><a href="index-4.html">Biblicomania</a></li>
-									 
-								 </ul>
-              </nav>
-           <div class="clear"></div>
-           </div>
-           <div class="clear"></div>
-          </div>
-</header>
+<?php include('./includes/header.php'); ?>
 
 <div class="main">
 <!--=======content================================-->
 
 <div class="content">
 <!--Poner buen título, ver si lo blanco le podemos bajar un poco la opacidad-->
-  <center>Vencidos por su amor y su gracia-Raúl Borboa</center>
+  <center>Las dos generaciones-Vicky de Olivares</center>
        
   <center>    
       	<iframe width="660" height="400"
-src="http://www.youtube.com/embed/I2mErCSccd4">
+src="http://www.youtube.com/embed/e7M9QemfqLY">
 </iframe>
     </center>
      <br/><br/> <!--Poner imagen-->
-    <a href="series_video.html" target="_self">Regresar</a>
+    <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 28px;" ><a href="./series_video.php" target="_self">Regresar</a></div>
     
       
 </div>

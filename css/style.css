@@ -30,7 +30,7 @@ body {
 	color:#666565;
 	position:relative;
 	min-width:960px;
-	background: #000;
+	background: #fff;
     background:url(../images/bg_body.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -38,7 +38,9 @@ body {
 	background-size: cover;
 	
 }
-
+carrois {
+		font-family: 'Carrois Gothic SC', sans-serif;
+	 }
 .ic, .ic a {
 	border:0;
 	float:right;

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es-419">
      <head>
      <title>Video Tarde de Gorra</title>
      <meta charset="utf-8">
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
+     <link href='http://fonts.googleapis.com/css?family=Carrois+Gothic+SC' rel='stylesheet' type='text/css'>
      <link rel="stylesheet" href="css/style.css">
      <link rel="stylesheet" href="css/style-img.css">
      <link rel="stylesheet" href="css/touchTouch.css">
@@ -27,6 +28,7 @@
       
       
      </script>
+     
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -42,56 +44,22 @@
      </head>
      <body  class="">
 <!--==============================header=================================-->
- <header> 
-  <div class="container_12">
-    <div class="grid_12"> 
-    <h1><a href="index.html"><img src="images/logo.png" alt="Nueva Generación"></a> </h1>
-          
-         
-           <div class="clear"></div>
-      </div>
-<div class="menu_block">
-           <nav  class="" >
-            <ul class="sf-menu">
-									 <li class="current"><a href="index.html">Inicio</a></li>
-									 <li class="with_ul"><a href="index-1.html">Música</a>
-									   <ul>
-												<li><a href="#"> Agency</a></li>
-												<li><a href="#">News</a></li>
-										 <li><a href="#">Team</a></li>
-										 </ul>
-									 </li>
-									 <li><a href="index-2.html">Galeria</a></li>
-						  <li><a href=".">Series</a>
-                          	  <ul>
-												<li><a href="./series.html"> Audio</a></li>
-												<li><a href="./series_video.html">Video</a></li>
-										
-								</ul></li>
-									 <li><a href="index-4.html">Biblicomania</a></li>
-									 
-								 </ul>
-              </nav>
-           <div class="clear"></div>
-           </div>
-           <div class="clear"></div>
-          </div>
-</header>
+<?php include('./includes/header.php'); ?>
 
 <div class="main">
 <!--=======content================================-->
 
 <div class="content">
 <!--Poner buen título, ver si lo blanco le podemos bajar un poco la opacidad-->
-  <center>Las dos generaciones-Vicky de Olivares</center>
+ <!-- <center><div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 24px;" >vencidos por su amor y su gracia-raúl borboa</div></center><br/>-->
        
   <center>    
       	<iframe width="660" height="400"
-src="http://www.youtube.com/embed/e7M9QemfqLY">
+src="http://www.youtube.com/embed/I2mErCSccd4">
 </iframe>
     </center>
      <br/><br/> <!--Poner imagen-->
-    <a href="series_video.html" target="_self">Regresar</a>
+   <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 28px;" > <a href="./series_video.php" target="_self">regresar</a></div>
     
       
 </div>
