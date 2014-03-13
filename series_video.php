@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-     <head>
-     <title>Series</title>
-     <meta charset="utf-8">
-     <link rel="icon" href="images/favicon.ico">
-     <link rel="shortcut icon" href="images/favicon.ico" />
+<?php include('./includes/head.php'); ?>
      <link rel="stylesheet" href="css/style.css">
      <link rel="stylesheet" href="css/style-img.css">
      <link rel="stylesheet" href="css/touchTouch.css">

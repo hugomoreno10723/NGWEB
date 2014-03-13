@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-     <head>
-     <title>Vuélvete a mi ley</title>
-     <meta charset="utf-8">
-     <link rel="icon" href="images/favicon.ico">
-     <link rel="shortcut icon" href="images/favicon.ico" />
+<?php include('./includes/head.php'); ?>
      <link rel="stylesheet" href="css/style.css">
      <link rel="stylesheet" href="css/table.css">
      <script src="js/jquery.js"></script>
@@ -44,41 +38,7 @@
      </head>
      <body  class="">
 <!--==============================header=================================-->
- <header> 
-  <div class="container_12">
-    <div class="grid_12"> 
-    <h1><a href="index.html"><img src="images/logo.png" alt="Gerald Harris attorney at law"></a> </h1>
-          
-         
-           <div class="clear"></div>
-      </div>
-<div class="menu_block">
-           <nav  class="" >
-             <ul class="sf-menu">
-									 <li class="current"><a href="index.html">Inicio</a></li>
-									 <li class="with_ul"><a href="index-1.html">Música</a>
-									   <ul>
-												<li><a href="#"> Agency</a></li>
-												<li><a href="#">News</a></li>
-										 <li><a href="#">Team</a></li>
-									   </ul>
-									 </li>
-									 <li><a href="index-2.html">Galeria</a></li>
-						  <li><a href=".">Series</a>
-                          	  <ul>
-												<li><a href="./series.html"> Audio</a></li>
-												<li><a href="./series_video.html">Video</a></li>
-										
-							</ul></li>
-									 <li><a href="index-4.html">Biblicomania</a></li>
-									 
-								 </ul>
-              </nav>
-           <div class="clear"></div>
-           </div>
-           <div class="clear"></div>
-          </div>
-</header>
+  <?php include('./includes/header.php'); ?>
 
 <div class="main">
 <!--=======content================================-->
@@ -173,52 +133,12 @@
 </div>
 
 <!--=======bottom================================-->
-<div class="bottom_block">
-  <div class="container_12">
-    <div class="grid_2 prefix_2">
-			<ul>
-				<li><a href="#">Música</a></li>
-				<li><a href="#">Galería</a></li>
-			</ul>
-		</div>
-		<div class="grid_2">
-			<ul>
-				<li><a href="#">Series</a></li>
-				<li><a href="#">Biblicomania</a></li>
-			</ul>
-		</div>
-		<div class="grid_2">
-        	<h4>Fallas técnicas:</h4>
-			comunicacion_ng@hotmail.com
-   		</div>
-		<div class="grid_2">
-			<h4>Contáctanos:</h4>
-			ngjovenes@casadeoracionmexico.com
-		 
-		</div>
-    <div class="clear"></div>
-    </div>
-  </div>
+<?php include('./includes/bottom_block.php'); ?>
 <!--==============================footer=================================-->
 
 
 </div>
-<footer>    
-  <div class="container_12">
-  <div class="grid_12">
-    <div class="socials">
-      <a href="#"></a>
-      <a href="#"></a>
-      <a href="#"></a>
-      <a href="#"></a>
-    </div>
-      <div class="copy">
-     Journey &copy; 2013 | <a href="#">Privacy Policy</a> | Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
-     </div></div>
-     <div class="clear"></div>
-  </div>
-
-</footer>
+<?php include('./includes/footer.php'); ?>
 
 </body>
 </html>

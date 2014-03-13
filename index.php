@@ -1,22 +1,16 @@
-<!DOCTYPE html>
-<html lang="es-419">
-		 <head>
-		 <title>Jóvenes</title>
-		 <meta charset="utf-8">
-		 <link rel="icon" href="./favicon.ico">
-		 <link rel="shortcut icon" href="./favicon.ico" />
+<?php include('./includes/head.php'); ?>
 		 <link rel="stylesheet" href="css/style.css">
 		 <link rel="stylesheet" href="css/slider.css">
 		 <script src="js/jquery.js"></script>
 		 <script src="js/jquery-migrate-1.1.1.js"></script>
 		 <script src="js/superfish.js"></script>
-		 <script src="js/sForm.js"></script>
-		 <script src="js/jquery.jqtransform.js"></script>
-		 <script src="js/jquery.equalheights.js"></script>
+         <script src="js/jquery.equalheights.js"></script>
 		 <script src="js/jquery.easing.1.3.js"></script>
+         <script src="js/jquery.ui.totop.js"></script>
+		 <script src="js/jquery.jqtransform.js"></script>
+		 <script src="js/sForm.js"></script>
 		 <script src="js/tms-0.4.1.js"></script>
-		<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
-		 <script src="js/jquery.ui.totop.js"></script>
+		 <script src="js/jquery-ui-1.10.3.custom.min.js"></script>
 		 <script>
 			$(window).load(function(){
 			$('.slider')._TMS({

@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="es-419">
-     <head>
-     <title>Video Tarde de Gorra</title>
-     <meta charset="utf-8">
-     <link rel="icon" href="images/favicon.ico">
-     <link rel="shortcut icon" href="images/favicon.ico" />
+<?php include('./includes/head.php'); ?>
      <link href='http://fonts.googleapis.com/css?family=Carrois+Gothic+SC' rel='stylesheet' type='text/css'>
      <link rel="stylesheet" href="css/style.css">
      <link rel="stylesheet" href="css/style-img.css">
