@@ -219,6 +219,7 @@ Realizada por el ministerio Nueva Generación del C. C. Casa de Oración.
 	</div>
 	<div class="clear"></div></div>
 </div>
+
 <!--=======bottom================================-->
 <?php include('./includes/bottom_block.php'); ?>
 <!--==============================footer=================================-->

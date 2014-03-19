@@ -76,7 +76,7 @@
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Congreso 2013</h2>
              <p>Escucha y/o descarga los temas que se compartieron durante el evento.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
+                 <a href="./audio_vuelvete.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>

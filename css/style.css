@@ -135,8 +135,8 @@ ul.list1 .count {
 	line-height: 30px;
 	height: 31px;
 	color: #fff;
-	border: 1px solid #4f93b2;
-	background-color: #38afe5;
+	border: 1px solid #662028;
+	background-color: #662028;
 
 }
 
@@ -560,6 +560,30 @@ a.gal:hover img {
 	line-height: 19px;
 	color: #263555;
 }
+.textContent {		/*Artículo text, tamaño*/
+	font-size: 14.5px;
+	line-height: 19px;
+	color: #260000;
+	text-align:left;
+}
+.textpie {		/*Artículo text, tamaño*/
+	font-size: 11px;
+	line-height: 19px;
+	color: #000;
+	text-align:end;
+}
+.textContenido {		/*Artículo text, tamaño*/
+	font-size: 13.5px;
+	line-height: 19px;
+	color: #000;
+	text-align:justify;
+}
+.texttitle {		/*Artículo text, tamaño*/
+	font-size: 16.5px;
+	line-height: 19px;
+	color: #263555;
+	text-align:left;
+}
 
 .page1 .text1 {
 	font-size: 16.8px;
@@ -703,7 +727,7 @@ p.text1.tx2 {
 }
 
 .bottom_block {
-	background-color: #662028;
+	background-color: #662028; 
 	color: #ffffff;
 	font-size: 12px;
 	padding-bottom: 34px;

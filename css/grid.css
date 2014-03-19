@@ -25,6 +25,12 @@ body {
 	margin-right: auto;
 	width: 1152px;
 }
+.container_bb {
+	margin-left: 500px;
+	margin-right: 500px;
+	width: 1152px;
+}
+
 
 /* Grid >> Global
 ----------------------------------------------------------------------------------------------------*/

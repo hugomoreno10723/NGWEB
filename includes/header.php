@@ -18,7 +18,13 @@
 												<li><a href="./series_video.php">Video</a></li>
 										
 								</ul></li>
-									 <li><a href="index-4.html">Biblicomania</a></li>
+									 <li><a>Biblicomania</a>
+                                     <ul>
+												<li><a href="./biblicomania_intro.php">Intro</a></li>
+												<li><a href="./biblicomania_tema1.php">Tema 1</a></li>
+										
+									</ul>
+                                     </li>
 									 
 								 </ul>
 							</nav>
