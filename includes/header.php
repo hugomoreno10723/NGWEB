@@ -10,7 +10,13 @@
 					 <nav	class="" >
 						<ul class="sf-menu">
 									 <li class="current"><a href="index.php">Inicio</a></li>
-									 <li class="with_ul"><a href="index-1.html">Música</a> </li>
+									 <li><a>Música</a> 
+                                     <ul>
+												<li><a href="./audio_vuelvete.php">Audio</a></li>
+												<li><a href="./musica_video.php">Video</a></li>
+										
+									</ul>
+                                     </li>
 									 <li><a href="index-2.html">Galeria</a></li>
 						  <li><a>Series</a>
                           	  <ul>
