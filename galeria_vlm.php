@@ -21,8 +21,6 @@
             #galleria{height:420px}
 
         </style>
-         <!-- load jQuery -->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 
         <!-- load Galleria -->
         <script src="js/galleria-1.3.5.min.js"></script>
