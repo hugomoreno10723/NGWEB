@@ -54,7 +54,7 @@ carrois {
 	padding:0
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, {
 	font-weight: normal;
 	font-family: 'Pathway Gothic One', sans-serif;
 	color: #263555;
@@ -67,11 +67,10 @@ h3 {
 	text-transform: uppercase;
 	margin-bottom: 50px;
 }
-
 .page1 h3 {
 	padding-top: 62px;
 	margin-bottom: 54px;
-	font-size: 28px;
+	font-size: 20px;
 }
 
 h4 {
@@ -333,10 +332,10 @@ header h1 a img {
 	background-color: #662028;
 	position: absolute;
 	top: 0;
-	font-size: 13px;
-	line-height: 19px;
+	font-size: 18px;
+	line-height: 14px;
 	color: #cbc6c6;
-	text-align: left;
+	text-align:justify;
 	left: 0;
 	height: 100%;
 	width: 183px;
@@ -366,11 +365,11 @@ header h1 a img {
 
 figcaption h3 {
 	color: #ffffff;
-	text-align: center;
+	text-align:center;
 	padding-top: 18px !important;
 	font-size: 38px;
 	margin-bottom: 18px !important;
-	font-family: 'Open Sans Condensed', sans-serif;
+	
 
 }
 

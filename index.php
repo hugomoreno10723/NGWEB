@@ -87,9 +87,9 @@
 						<div><img src="./images/DSC00798.JPG" alt=""></div>
 						<figcaption>
 							<h3>Alabanza y adoración</h3>
-							Te invitamos las sesiones de alabanza de las reuniones de jóvenes. Aliquam dapibus neclol nami wertoli elittro eget vulpoli no
-utaterbil.
-							<a href="" class="btn">Ver más</a>
+							“Bendigo al Señor todo el tiempo; en mis labios siempre hay una alabanza para él”.
+Sal. 34:1<br/><br/>
+En esta sección encontrarás sesiones de alabanza durante nuestras reuniones, las cuales podrás escuchar o descargar completamente gratis. <a href="" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
@@ -97,8 +97,14 @@ utaterbil.
 					<figure>
 						<div><img src="./images/DSC03953.JPG" alt=""></div>
 						<figcaption>
-							<h3>Galería de fotos</h3>
-							Disfruta de la galería de nuestros eventos del Ministerio de Jóvenes. Aenean lacinia ucibusy fase tortor ut feugiat. Rabi tur oliti aliquam bibendum.
+							<h3>Galería</h3>
+							“¡Mirad cuán bueno y cuán delicioso es 
+Habitar los hermanos juntos en armonía!”
+<br/>
+Sal. 131:1 
+<br/><br/>
+Da clic en este apartado y podrás disfrutar las capturas de los tiempos de convivencia durante los eventos de nuestro Ministerio de Jóvenes. 
+
 							<a href="" class="btn">Ver más</a>
 
 						</figcaption>
