@@ -62,11 +62,13 @@
 				<div class="slider">
 					<a href="#" class="prev"></a><a href="#" class="next"></a>
 					<ul class="items">
+                    <li><img src="images/bienvenido.jpg" alt="">
+                    <div class="banner">		<!--FIXME: No quitar porque se desconfigura la tabla de abajo-->								</div></li>
 						<li><img src="images/congreso14.jpg" alt="">
-								<div class="banner">		<!--FIXME: No quitar porque se desconfigura la tabla de abajo-->								</div>
+								
 						</li>
-						<li><img src="images/bienvenidong.jpg" alt=""></li>
-						<li><img src="images/canal.jpg" alt=""></li>
+						
+						<li><img src="images/Youtube.jpg" alt=""></li>
 						<li><img src="images/bienvenido3.jpg" alt=""></li>
 					</ul>
 				</div>

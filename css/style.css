@@ -31,7 +31,8 @@ body {
 	position:relative;
 	min-width:960px;
 	background: #fff;
-    background:url(../images/bg_body.jpg) no-repeat center center fixed;
+  /*  background:url(../images/bg_body.jpg) no-repeat center center fixed;*/
+   background:url(../images/bg_body.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

@@ -48,7 +48,7 @@
 <div class="content">
   <div class="container_12">
        <div class="gallery">
-<div id="galleria">
+
              <a href="fotosvuelvete/DSC_0037.JPG">
                 <img 
                     src="fotosvuelvete/DSC_0037a.jpg", 
@@ -1060,8 +1060,7 @@
     Galleria.run('#galleria');
 
     </script>
-      
-    </div>
+  
       <div class="clear"></div>
   </div>
 </div>

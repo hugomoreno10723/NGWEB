@@ -1,7 +1,7 @@
  
 .menu_block  {
 	position: relative;
-	padding-left: 144px;
+	padding-left: 12px; /*De donde inician original:144*/
 	padding-top: 97px;
 
 }
@@ -19,7 +19,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 .sf-menu>li:first-child+li+li {
-	margin-right: 227px;
+	margin-right: 165px;
 }
 
 .sf-menu>li+li {
@@ -34,7 +34,12 @@ nav{ position:relative;padding: 0px 0 0 0;}
 .sf-menu>li>a{
 	text-transform: uppercase;
 	font-size: 28px;
-	font-family: 'Pathway Gothic One', sans-serif;
+	/*font-family: 'Pathway Gothic One', sans-serif;
+	font-family: 'Sniglet', cursive;*/
+	font-family: 'Nova Square', cursive;
+	/*font-family: 'Special Elite', cursive;
+	font-family: 'Coda Caption', sans-serif;
+	font-family: 'Trade Winds', cursive;*/
 	color: #fff;
 	position: relative;
 	font-weight: 300px;
