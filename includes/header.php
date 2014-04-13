@@ -1,7 +1,7 @@
  <header> 
 	<div class="container_12">
 		<div class="grid_12"> 
-		<h1><a href="index.html"><img src="images/logo.png" alt="Nueva Generación"></a> </h1>
+		<center><h1><a href="index.html"><img src="images/logo45.png" alt="Nueva Generación"></a> </h1></center>
 					
 				 
 					 <div class="clear"></div>

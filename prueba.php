@@ -9,6 +9,17 @@
      <script src="js/jquery.easing.1.3.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
      <script src="js/touchTouch.jquery.js"></script>
+     <script type="text/javascript" src="jquery-1.3.2.js"></script>
+    <script type="text/javascript" src="jquery-ui-1.7.2.custom.js"></script>
+	 <script type="text/javascript" src="jquery.jcoverflip.js"></script>
+     <script>
+    jQuery( document ).ready( function(){
+        jQuery( '#flip' ).jcoverflip();
+        
+      });
+      
+      
+    </script>
      <script>
      $(window).load(function(){
        $().UItoTop({ easingType: 'easeOutQuart' });
@@ -21,6 +32,52 @@
       
       
      </script>
+     
+     <style>
+	  /* Basic jCoverflip CSS */
+	  
+      .ui-jcoverflip {
+        position: relative;
+      }
+      
+      .ui-jcoverflip--item {
+        position: absolute;
+        display: block;
+      }
+      
+      
+      /* Basic sample CSS */
+      #flip {
+        height: 200px;
+        width: 830px;
+        margin-bottom: 50px;
+      }
+      
+      #flip .ui-jcoverflip--title {
+        position: absolute;
+        bottom: -30px;
+        width: 100%;
+        text-align: center;
+        color: #555;
+      }
+      
+      #flip img {
+        display: block;
+        border: 0;
+        outline: none;
+      }
+      
+      #flip a {
+        outline: none;
+      }
+	  #wrapper {
+        height: 300px;
+        width: 630px;
+        overflow: hidden;
+        position: relative;
+      }
+	 </style>
+        
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -33,6 +90,7 @@
       <link rel="stylesheet" media="screen" href="css/ie.css">
 
     <![endif]-->
+     
      </head>
      <body  class="">
 <!--==============================header=================================-->
@@ -43,43 +101,21 @@
 
 <div class="content">
   <div class="container_12">
-       <div class="gallery">
-     
-      <div class="clear"></div>
-      <div class="grid_4">
-        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Congreso 2013</h2>
-             <p>Escucha y/o descarga los temas que se compartieron durante el evento.</p>
-                 <a href="./galeria_vlm.php" class="info" target="_self">Ver más</a>
-             </div>
-		</div>
-      </div>
-      <div class="grid_4">
-        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/gorra2.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Tarde de gorra</h2>
-             <p>Escucha y/o descarga el tema que Raúl Borboa compartió durante el evento.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
-             </div>
-		</div>
-      </div>
-      <div class="grid_4">
-         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/Libertad2.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Firmes en la libertad</h2>
-             <p>Escucha y/o descarga el tema que Rito Llamas compartió durante el evento.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
-             </div>
-		</div>
-      </div>
-   <!--   <div class="clear"></div>
-      <div class="grid_4">
-        <a href="images/big7.jpg" class="gal img_inner"><img src="images/page3_img7.jpg" alt=""></a>
-      </div>
-      <div class="grid_4">
-        <a href="images/big8.jpg" class="gal img_inner"><img src="images/page3_img8.jpg" alt=""></a>
-      </div>
-      <div class="grid_4">
-        <a href="images/big9.jpg" class="gal img_inner"><img src="images/page3_img9.jpg" alt=""></a>
-      </div>-->
+   <div class="gallery">
+   <center>
+
+               
+              <ul id="flip">
+            <li><span class="title"><a href="./audio_vuelvete.php">El conocimiento de Cristo</a></span><img src="images/CongreMini14.jpg" /></li>
+              <li><span class="title">Vuélvete a mi ley</span><img src="images/vuelvete.jpg" /></li>
+              <li><span class="title">El conocimiento de Cristo</span><img src="images/congre14_350x200.jpg"/></li>
+              <li><span class="title">Vuélvete a mi ley</span><img src="images/congre2_0.jpg" /></li>
+              <li><span class="title">El mejor regalo</span><img src="images/regalo.jpg"/></li>
+          </ul>
+             
+</center>
+
+      
     </div>
       <div class="clear"></div>
   </div>

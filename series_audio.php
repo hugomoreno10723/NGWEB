@@ -45,7 +45,7 @@
   <div class="container_12">
        <div class="gallery">
       <div class="grid_4">
-        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/LaVidadeJesus.jpg" alt="" width="350" height="200">
+        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/congre14_350x200.jpg" alt="" width="350" height="200">
         <div class="mask">
              <h2>La vida de Jesús</h2>
              <p>Te invitamos a escuchar y/o descargar la serie que Janette Arroyo comparte a los Jóvenes. </p>

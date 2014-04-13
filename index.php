@@ -62,12 +62,12 @@
 				<div class="slider">
 					<a href="#" class="prev"></a><a href="#" class="next"></a>
 					<ul class="items">
-						<li><img src="images/bienvenido3.jpg" alt="">
+						<li><img src="images/congreso14.jpg" alt="">
 								<div class="banner">		<!--FIXME: No quitar porque se desconfigura la tabla de abajo-->								</div>
 						</li>
 						<li><img src="images/bienvenidong.jpg" alt=""></li>
 						<li><img src="images/canal.jpg" alt=""></li>
-						<li><img src="images/slide3.jpg" alt=""></li>
+						<li><img src="images/bienvenido3.jpg" alt=""></li>
 					</ul>
 				</div>
 			</div>
@@ -87,8 +87,8 @@
 						<div><img src="./images/DSC00798.JPG" alt=""></div>
 						<figcaption>
 							<h3>Alabanza y adoración</h3>
-							“Bendigo al Señor todo el tiempo; en mis labios siempre hay una alabanza para él”.
-Sal. 34:1<br/><br/>
+							<!--“Bendigo al Señor todo el tiempo; en mis labios siempre hay una alabanza para él”.
+Sal. 34:1<br/><br/>-->
 En esta sección encontrarás sesiones de alabanza durante nuestras reuniones, las cuales podrás escuchar o descargar completamente gratis. <a href="" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
@@ -98,11 +98,11 @@ En esta sección encontrarás sesiones de alabanza durante nuestras reuniones, l
 						<div><img src="./images/DSC03953.JPG" alt=""></div>
 						<figcaption>
 							<h3>Galería</h3>
-							“¡Mirad cuán bueno y cuán delicioso es 
+						<!--	“¡Mirad cuán bueno y cuán delicioso es 
 Habitar los hermanos juntos en armonía!”
 <br/>
 Sal. 131:1 
-<br/><br/>
+<br/><br/>-->
 Da clic en este apartado y podrás disfrutar las capturas de los tiempos de convivencia durante los eventos de nuestro Ministerio de Jóvenes. 
 
 							<a href="" class="btn">Ver más</a>
@@ -131,10 +131,10 @@ Da clic en este apartado y podrás disfrutar las capturas de los tiempos de conv
 	</ul>
 	<div class="clear"></div>
 	<div class="tab_cont" id="tabs-1"><br/>
-		<img src="images/vuelvete.jpg" alt="">
+        <img src="images/CongreMini14.jpg" alt="">
 		<div class="extra_wrapper">
 			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
-			<p class="style1">Te invitamos a descargar las plenarias que se impartieron durante el congreso 2013. </p>
+			<p class="style1">Te invitamos a descargar las plenarias que se impartieron durante el congreso 2014. </p>
 			
 Ingresa a través del siguiente enlace:
 <a href="#" class="btn">Ver más</a>
@@ -142,12 +142,13 @@ Ingresa a través del siguiente enlace:
 
 		</div>
 		<div class="clear cl1"></div>
-		<img src="images/LaVidadeJesus.jpg" alt="" width="245" height="130">
+		<img src="images/vuelvete.jpg" alt="">
 		<div class="extra_wrapper">
-			<!--<div class="text1 tx1"><br/>La vida de Jesús. </div>-->
-			Te invitamos a escuchar y/o descargar la serie que Janette Arroyo comparte a los Jóvenes.
-			<div class="clear"></div>
-			<a href="#" class="btn bt1">Ver más</a>
+			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
+			<p class="style1">Te invitamos a descargar las plenarias que se impartieron durante el congreso 2013. </p>
+			
+Ingresa a través del siguiente enlace:
+<a href="#" class="btn">Ver más</a>
 			<div class="clear "></div>
 
 		</div>	<br/>

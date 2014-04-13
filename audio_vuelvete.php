@@ -54,7 +54,7 @@
                 <table >
                     <tr>
                         <td>
-                            Descarga a través de Mega:
+                            Clic en el título para descarga:
                         </td>
                         <td >
                             Escucha y/o descarga a través de ivoox:
@@ -63,34 +63,10 @@
                     </tr>
                     <tr>
                         <td >
-                            Row 1
+                            Sesión de Alabanza
                         </td>
                         <td>
-                            Row 1
-                        </td>
-                    </tr>
-                    <tr>
-                        <td >
-                            Row 2
-                        </td>
-                        <td>
-                            Row 2
-                        </td>
-                    </tr>
-                    <tr>
-                        <td >
-                            Row 2
-                        </td>
-                        <td>
-                            Row 2
-                        </td>
-                    </tr>
-                    <tr>
-                        <td >
-                            Row 3
-                        </td>
-                        <td>
-                            Row 3
+                           <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_2_1.html?data=k5iil5aXeI6ZmKial5qJd6Kok5KSmaiRdo6ZmKiakpKJe6ShkZKSmaiRl8bnyoqwlYqmd8%2BfxcqYo9HFpsLi28aah5ynca%2FpxtvOjazJssbmwsjWh6iXaaOnz5KSmaiReA%3D%3D&"></iframe>
                         </td>
                     </tr>
                 </table>

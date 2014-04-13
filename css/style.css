@@ -61,8 +61,8 @@ h1, h2, h3, h4, h5, h6, {
 }
 
 h3 {
-	font-size: 38px;
-	line-height: 44px;
+	font-size: 34px;
+	line-height: 30px;
 	color: #263555;
 	text-transform: uppercase;
 	margin-bottom: 50px;
@@ -167,7 +167,7 @@ padding-top:54px;
 }
 
 h3.head1 {
-	padding-top: 49px;
+	padding-top: 32px;
 	padding-bottom: 1px;
 }
 /*links*/
@@ -332,8 +332,8 @@ header h1 a img {
 	background-color: #662028;
 	position: absolute;
 	top: 0;
-	font-size: 18px;
-	line-height: 14px;
+	font-size: 13px;
+	line-height: 18px;
 	color: #cbc6c6;
 	text-align:justify;
 	left: 0;
@@ -365,10 +365,11 @@ header h1 a img {
 
 figcaption h3 {
 	color: #ffffff;
-	text-align:center;
+	text-align: center;
 	padding-top: 18px !important;
-	font-size: 38px;
+	font-size: 30px;
 	margin-bottom: 18px !important;
+	font-family: 'Open Sans Condensed', sans-serif;
 	
 
 }
