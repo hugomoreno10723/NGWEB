@@ -64,7 +64,7 @@
 					<ul class="items">
                     <li><img src="images/bienvenido.jpg" alt="">
                     <div class="banner">		<!--FIXME: No quitar porque se desconfigura la tabla de abajo-->								</div></li>
-						<li><img src="images/congreso14.jpg" alt="">
+						<li><img src="images/congre14.jpg" alt="">
 								
 						</li>
 						
@@ -167,9 +167,22 @@ src="http://www.youtube.com/embed/bh8fjb2EUDU">
 
 		</div>
 		<div class="clear cl1"></div>
-		<center><iframe width="520" height="285"
+		<!--<center><iframe width="520" height="285"
 src="http://www.youtube.com/embed/rBcrg3NVLrI">
-</iframe></center>
+</iframe></center>-->
+<center><script type='text/javascript'>
+var vid = [ 
+// Aca colocar e ID del video
+"rBcrg3NVLrI",
+"-yqlIQ-cHRM",
+"VUpi7RzJTL0",
+"I2mErCSccd4",];
+var ancho_vid = '520'; // Ancho
+var alto_vid = '295'; // Alto 
+var ran_unrounded = Math.random()*vid.length;
+var ran_number = Math.floor(ran_unrounded);
+document.write('<object width="'+ancho_vid+'" height="'+alto_vid+'"><param name="movie" value="http://www.youtube.com/v/'+vid[ran_number]+'&hl=es&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/'+vid[ran_number]+'&hl=es&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="'+ancho_vid+'" height="'+alto_vid+'"></embed></object>');
+</script></center>
 		<div class="extra_wrapper">
 			<div class="text1 tx1"><br/>El progreso del peregrino. </div>
 			Obra de teatro basada en el libro de John Bunyan: El Progreso del peregrino. 
