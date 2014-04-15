@@ -49,7 +49,7 @@
         	<img src="images/TEMAS_ADICIONALES.jpg" alt="" width="350" height="200">
             <div class="mask">
              <h2>Temas adicionales</h2>
-             <p>Visualiza los temas que tenemos en esta sección </p>
+             <p>Disfruta de los temas que tenemos para ti en esta sección. </p>
                  <a href="./videos_temasadicionales.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
@@ -57,7 +57,7 @@
       <div class="grid_4">
       	<div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Congreso 2013</h2>
-             <p>Visualiza los temas que se compartieron durante el evento.</p>
+             <p>Revive las plenarias que Janette Arroyo y Omar Llamas compartieron en el congreso 2013.</p>
                  <a href="./videos_vlm.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
@@ -65,7 +65,7 @@
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/gorra2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Tarde de gorra</h2>
-             <p>Visualiza el tema que Raúl Borboa compartió durante el evento.</p>
+             <p>Disfruta el tema que Raúl Borboa compartió con nosotros una tarde de gorra.</p>
                  <a href="./videos_tardegorra.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>

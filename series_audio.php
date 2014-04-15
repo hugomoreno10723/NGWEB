@@ -47,7 +47,7 @@
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/congre14_350x200.jpg" alt="" width="350" height="200">
         <div class="mask">
-             <h2>La vida de Jesús</h2>
+             <h2>EL CONOCIMIENTO DE CRISTO</h2>
              <p>Te invitamos a escuchar y/o descargar la serie que Janette Arroyo comparte a los Jóvenes. </p>
                  <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
              </div>
@@ -57,41 +57,47 @@
       	<div class="view view-sixth" style="margin:0 auto 30px;">
         	<img src="images/TEMAS_ADICIONALES.jpg" alt="" width="350" height="200">
             <div class="mask">
-             <h2>Temas adicionales</h2>
-             <p>Escucha y/o descarga los temas que tenemos en esta sección </p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
+             <h2>TEMAS ADICIONALES</h2>
+             <p>Disfruta de los diversos temas que distintos oradores han compartido con nosotros. </p>
+                 <a href="./audio_temasadicionales.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/regalo.jpg" alt="" width="350" height="200"><div class="mask">
-             <h2>El mejor regalo</h2>
-             <p>Escucha y/o descarga el tema que compartió Adrian Hernández en la cena de jóvenes 2013.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
+             <h2>EL MEJOR REGALO</h2>
+             <p>Durante la cena navideña de Jóvenes de 2013
+Adrián Hernández compartió este tema. 
+</p>
+                 <a href="./audio_mejorregalo.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>
       <div class="clear"></div>
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Congreso 2013</h2>
-             <p>Escucha y/o descarga los temas que se compartieron durante el evento.</p>
-                 <a href="./audio_vuelvete.php" class="info" target="_self">Ver más</a>
+             <h2>VUÉLVETE A MI LEY</h2>
+             <p>Escucha, descarga y comparte los temas compartidos
+Por Janette Arroyo y Omar Llamas en el 
+Congreso 2013.</p>
+                 <a href="./audio_vlm.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/gorra2.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Tarde de gorra</h2>
-             <p>Escucha y/o descarga el tema que Raúl Borboa compartió durante el evento.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
+             <h2>TARDE DE GORRA</h2>
+             <p>Raúl Borboa estuvo con nosotros compartiendo el tema: “Vencidos por su amor y su gracia”.
+Escucha y descarga
+</p>
+                 <a href="./audio_tardegorra.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>
       <div class="grid_4">
          <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/Libertad2.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Firmes en la libertad</h2>
-             <p>Escucha y/o descarga el tema que Rito Llamas compartió durante el evento.</p>
+             <h2>FIRMES EN LA LIBERTAD</h2>
+             <p>“Cristo nos libertó para que vivamos en libertad. Por lo tanto, manteneos firmes y no os sometáis nuevamente al yugo de esclavitud” Gálatas 5:1.</p>
                  <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
              </div>
 		</div>
