@@ -49,7 +49,7 @@
         <div class="mask">
              <h2>EL CONOCIMIENTO DE CRISTO</h2>
              <p>Te invitamos a escuchar y/o descargar la serie que Janette Arroyo comparte a los Jóvenes. </p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
+                 <a href="./audio_conocimiento.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
       </div>

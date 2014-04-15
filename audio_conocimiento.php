@@ -47,7 +47,7 @@
       <div class="grid_9">
         <div class="">
           
-         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/regalo.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
+         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/congre520x364.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
           <p class="text1"><a href="#"> </a></p>
           <p><div class="CSSTableGenerator" >
                 <table >
@@ -62,10 +62,10 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!q9RxBQqS!asfDcVaisDoDI_so0fiJxG25MMJR7eMMKxpgvIhr3k8" target="_blank"> vencidos por su amor y su gracia</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!K0RFlBRa!vnQd9EAL4uowJfUtmA13gy3Vm_2668BRJ-veoD7J4nQ" target="_blank"> entrevista</a></div>
                         </td>
                         <td>
-                           <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2352623_2_1.html?data=k5iilJuWd46ZmKiakpaJd6Klmoqgo5qbcYarpJKfj4qbh46ljoqkpZKUcYarpJLDx9PHrcXj1JDd0dePt9afwtLc1JDdb9TpjMzfw8jNpY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
+                           <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_3022381_2_1.html?data=lJWflJicdY6ZmKialp6Jd6KplJKSmaiRdo6ZmKiakpKJe6ShkZKSmaiRic%2Fo08rjy9jYpY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
                         </td>
                     </tr>
                 </table>

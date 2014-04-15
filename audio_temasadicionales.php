@@ -47,7 +47,7 @@
       <div class="grid_9">
         <div class="">
           
-         <center> <img src="images/TEMAS_ADICIONALES.jpg" alt="" align="center" width="520" height="364"></center><br/>
+         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/TEMAS_ADICIONALES.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
           <p class="text1"><a href="#"> </a></p>
           <p><div class="CSSTableGenerator" >
                 <table >

@@ -42,12 +42,12 @@
 <div class="main">
 <!--=======content================================-->
 
-<div class="content"><div class="ic">More Website Templates @ TemplateMonster.com - August 05, 2013!</div>
+<div class="content">
   <div class="container_12">
       <div class="grid_9">
         <div class="">
           
-         <center> <img src="images/vuelvetebanner.jpg" alt="" align="center"></center><br/>
+          <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"><img src="images/vuelvetebanner.jpg" alt=""></div></center><br/>
           <p class="text1"><a href="#"> </a></p>
           <p><div class="CSSTableGenerator" >
                 <table >
@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                            Sesión de Alabanza
+                         <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" ><a href="https://mega.co.nz/#!KohHya4Q!SM2VJlv9k5ayX4rlrjC38ximpIokurhJyizo06RwJng"  target="_blank"> sesión de alabanza</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_2_1.html?data=k5iil5aXeI6ZmKial5qJd6Kok5KSmaiRdo6ZmKiakpKJe6ShkZKSmaiRl8bnyoqwlYqmd8%2BfxcqYo9HFpsLi28aah5ynca%2FpxtvOjazJssbmwsjWh6iXaaOnz5KSmaiReA%3D%3D&"></iframe>
