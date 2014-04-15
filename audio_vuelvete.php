@@ -7,6 +7,7 @@
      <script src="js/jquery.equalheights.js"></script>
      <script src="js/jquery.easing.1.3.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
+     <script src="js/share.min.js"></script>
      <script>
      $(window).load(function(){
        $().UItoTop({ easingType: 'easeOutQuart' });
@@ -15,14 +16,12 @@
       
       
      </script>
+<?php include('./includes/fb.php'); ?>
+     <style>
+	 .share-button { margin:auto; position:relative; top: 1; left: 0; bottom: 0; right: 0; }
+	 </style>
      <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1&appId=176010679219733";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -84,25 +83,30 @@
             
           </div>
           <div class="text1">Conferencistas:</div>Janette Arroyo & Omar Llamas
-        </blockquote><br/<br/>
-        <h3>Comparte a través de las redes sociales:</h3>
-        <div class="fb-like" data-href="https://ngmexico.com/jovenes/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br/><p></p>
-      <a href="https://twitter.com/share" class="twitter-share-button" data-via="NuevaGen_Mexico" data-size="large" data-related="NuevaGen_Mexico">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
-
-<!-- Inserta esta etiqueta donde quieras que aparezca Botón +1. -->
-<div class="g-plusone" data-size="tall" data-annotation="none"></div>
-
-<!-- Inserta esta etiqueta después de la última etiqueta de Botón +1. -->
-<script type="text/javascript">
-  window.___gcfg = {lang: 'es'};
-
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
+        </blockquote><br/><br/><br/>
+        <h3></h3>
+         <div id="share-button-top" class='share-button share-button-top'></div>
+  <script>
+    var share = new Share("#share-button-top", {
+      networks: {
+        facebook: {
+          app_id: "176010679219733",
+		  title: "Escucha la plenaria que compartió con nosotros, Vicky de Olivares",
+		  url: "http://ngmexico.com/jovenes/series.html",
+		  caption: "Las dos generaciones",
+		  image: "http://ngmexico.com/NGWEB/images/LNG.png",
+		  text: "blabla",
+        },
+		twitter: {
+      url: "http://ngmexico.com/jovenes/series.html",
+      text: "Escucha la plenaria que compartió con nosotros, Vicky de Olivares: Las dos generaciones",
+    },
+	google_plus: {
+      url: "http://ngmexico.com/jovenes/series.html",
+    },
+      }
+    });
+  </script>
       </div>
       <div class="clear"></div>
   </div>

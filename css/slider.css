@@ -20,7 +20,7 @@
 .slider { /*Posici+on de next y prev*/
 	z-index:2;
 	overflow: visible !important;
-	height: 532px;
+	height: 540px;
 
 	position: relative;
 }
@@ -68,12 +68,12 @@ a.prev, a.next {
 	display: block;
 	bottom: 49px;
 	z-index: 999;
-	left: 45px;
+	left: 980px;
 
 }
 
 a.next {
-	left: 101px;
+	left: 1031px;
 	width: 57px;
 	background-position: right bottom;
 

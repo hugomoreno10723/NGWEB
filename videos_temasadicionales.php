@@ -9,6 +9,7 @@
      <script src="js/jquery.easing.1.3.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
      <script src="js/touchTouch.jquery.js"></script>
+     <script src="js/share.min.js"></script>
      <script>
      $(window).load(function(){
        $().UItoTop({ easingType: 'easeOutQuart' });
@@ -21,6 +22,10 @@
       
       
      </script>
+<?php include('./includes/fb.php'); ?>
+     <style>
+	 .share-button { margin:auto; position:relative; top: 1; left: 0; bottom: 0; right: 0; }
+	 </style>
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -43,7 +48,7 @@
 
 <div class="content">
 <!--Poner buen título, ver si lo blanco le podemos bajar un poco la opacidad-->
-  <center>Las dos generaciones-Vicky de Olivares</center>
+  <center><div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 28px;" >"las dos generaciones"<br/><br/>vicky de olivares</div></center><br/>
        
   <center>    
       	<iframe width="660" height="400"
@@ -51,8 +56,30 @@ src="http://www.youtube.com/embed/e7M9QemfqLY">
 </iframe>
     </center>
      <br/><br/> <!--Poner imagen-->
-    <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 28px;" ><a href="./series_video.php" target="_self">Regresar</a></div>
-    
+    <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 28px;" ><a href="./series_video.php" target="_self">regresar</a></div><br/>
+     
+   <div id="share-button-top" class='share-button share-button-top'></div>
+  <script>
+    var share = new Share("#share-button-top", {
+      networks: {
+        facebook: {
+          app_id: "176010679219733",
+		  title: "Escucha la plenaria que compartió con nosotros, Vicky de Olivares",
+		  url: "http://ngmexico.com/jovenes/series.html",
+		  caption: "Las dos generaciones",
+		  image: "http://ngmexico.com/NGWEB/images/LNG.png",
+		  text: "blabla",
+        },
+		twitter: {
+      url: "http://ngmexico.com/jovenes/series.html",
+      text: "Escucha la plenaria que compartió con nosotros, Vicky de Olivares: Las dos generaciones",
+    },
+	google_plus: {
+      url: "http://ngmexico.com/jovenes/series.html",
+    },
+      }
+    });
+  </script>
       
 </div>
 

@@ -89,9 +89,10 @@
 						<div><img src="./images/DSC00798.JPG" alt=""></div>
 						<figcaption>
 							<h3>Alabanza y adoración</h3>
-							<!--“Bendigo al Señor todo el tiempo; en mis labios siempre hay una alabanza para él”.
-Sal. 34:1<br/><br/>-->
-En esta sección encontrarás sesiones de alabanza durante nuestras reuniones, las cuales podrás escuchar o descargar completamente gratis. <a href="" class="btn">Ver más</a>
+							“Bendeciré a Jehová en todo tiempo; 
+Su alabanza estará de continuo en mi boca”.
+<p align="right">Salmo 34:1 </p>
+Aquí encontrarás cantos de las reuniones de Jóvenes, las cuales podrás escuchar o descargar completamente gratis.<a href="" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
@@ -100,15 +101,10 @@ En esta sección encontrarás sesiones de alabanza durante nuestras reuniones, l
 						<div><img src="./images/DSC03953.JPG" alt=""></div>
 						<figcaption>
 							<h3>Galería</h3>
-						<!--	“¡Mirad cuán bueno y cuán delicioso es 
-Habitar los hermanos juntos en armonía!”
-<br/>
-Sal. 131:1 
-<br/><br/>-->
-Da clic en este apartado y podrás disfrutar las capturas de los tiempos de convivencia durante los eventos de nuestro Ministerio de Jóvenes. 
-
+					“¡Qué maravilloso y agradable es
+    cuando los hermanos conviven en armonía!”   <br/>        <p align="right">Salmo 133:1</p>
+Da clic en este apartado y podrás disfrutar las capturas de los diferentes tiempos durante los eventos de jóvenes. 
 							<a href="" class="btn">Ver más</a>
-
 						</figcaption>
 					</figure>
 				</div>
@@ -117,8 +113,10 @@ Da clic en este apartado y podrás disfrutar las capturas de los tiempos de conv
 						<div><img src="./images/DSC09062.JPG" alt=""></div>
 						<figcaption>
 							<h3>Biblicomania</h3>
-							Te invitamos a leer nuestros estudios biblicos que estaremos publicando periodicamente. Aenean lacinia ucibusy fase tortor ut feugiat. Rabi tur oliti aliquam bibendum olor quis malesuadivamu.
-							<a href="" class="btn">Ver más</a>
+                            “Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia...”. 
+<p align="right">2a Timoteo 3:16-17</p>
+							Lee, medita y comparte el estudio de la Palabra, que siempre será de edificación para nuestras vidas. 
+							<a href="./biblicomania_intro.php" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
@@ -136,9 +134,9 @@ Da clic en este apartado y podrás disfrutar las capturas de los tiempos de conv
         <img src="images/CongreMini14.jpg" alt="">
 		<div class="extra_wrapper">
 			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
-			<p class="style1">Te invitamos a descargar las plenarias que se impartieron durante el congreso 2014. </p>
+			<p class="style1">Escucha, descarga y comparte las predicaciones del congreso 2014. <br/><br/>Ingresa a través del siguiente enlace:</p>
 			
-Ingresa a través del siguiente enlace:
+
 <a href="#" class="btn">Ver más</a>
 <div class="clear "></div>
 
@@ -147,32 +145,19 @@ Ingresa a través del siguiente enlace:
 		<img src="images/vuelvete.jpg" alt="">
 		<div class="extra_wrapper">
 			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
-			<p class="style1">Te invitamos a descargar las plenarias que se impartieron durante el congreso 2013. </p>
+			<p class="style1">Si te lo perdiste o deseas revivirlo; escucha o descarga <br/>las predicaciones del congreso 2013. ¡Compártelo!<br/><br/>Ingresa a través del siguiente enlace:  </p>
 			
-Ingresa a través del siguiente enlace:
+
 <a href="#" class="btn">Ver más</a>
 			<div class="clear "></div>
 
 		</div>	<br/>
 	</div>
 	<div class="tab_cont" id="tabs-2">
-<center><iframe width="520" height="285"
-src="http://www.youtube.com/embed/bh8fjb2EUDU">
-</iframe></center>
-		<div class="extra_wrapper">
-			<div class="text1"><br/>Canal del Ministerio. </div>
-			<p class="style1">Visíta nuestro canal de youtube, donde podrás ver alabanza, adoración, plenarias, obras de teatro entre otros materiales.</p>
-<a href="http://www.youtube.com/nuevageneracionmx" class="btn">Ver más</a>
-<div class="clear "></div>
-
-		</div>
-		<div class="clear cl1"></div>
-		<!--<center><iframe width="520" height="285"
-src="http://www.youtube.com/embed/rBcrg3NVLrI">
-</iframe></center>-->
 <center><script type='text/javascript'>
 var vid = [ 
 // Aca colocar e ID del video
+"bh8fjb2EUDU",
 "rBcrg3NVLrI",
 "-yqlIQ-cHRM",
 "VUpi7RzJTL0",
@@ -184,23 +169,22 @@ var ran_number = Math.floor(ran_unrounded);
 document.write('<object width="'+ancho_vid+'" height="'+alto_vid+'"><param name="movie" value="http://www.youtube.com/v/'+vid[ran_number]+'&hl=es&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/'+vid[ran_number]+'&hl=es&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="'+ancho_vid+'" height="'+alto_vid+'"></embed></object>');
 </script></center>
 		<div class="extra_wrapper">
-			<div class="text1 tx1"><br/>El progreso del peregrino. </div>
-			Obra de teatro basada en el libro de John Bunyan: El Progreso del peregrino. 
-Realizada por el ministerio Nueva Generación del C. C. Casa de Oración.
- 
-			<div class="clear"></div>
-			<a href="#" class="btn bt1">Details</a>
-			<div class="clear "></div>
+			<div class="text1"><br/>Canal del Ministerio. </div>
+			<p class="style1">En esta sección encontrarás material útil de edificación para ti y para otros. <br/>¡Comparte, escucha y suscríbete!</p>
+<a href="http://www.youtube.com/nuevageneracionmx" class="btn">Ver más</a>
+<div class="clear "></div>
 
 		</div>
+		<div class="clear cl1"></div>
+
 	</div>
  <div class="tab_cont" id="tabs-3">
  <br/>
 <img src="images/vuelvete.jpg" alt="">
 		<div class="extra_wrapper"><br/>
 			<!--<div class="text1">Sesión de alabanza. </div>-->
-			<p class="style1">Sesión de alabanza del congreso de jóvenes 2013.</p>
-			<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_1.html"></iframe>
+			<p class="style1">Aquí encontrarás música, letras y acordes que podrás;<br/> descargar, escuchar y compartir.</p>
+			<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_1.html"></iframe><br/>
 <a href="#" class="btn">Ver más</a>
 <div class="clear "></div>
 
