@@ -2,14 +2,17 @@
 	<div class="container_12">
 		<div class="grid_2 prefix_2">
 			<ul>
-				<li><a href="#">Música</a></li>
-				<li><a href="#">Galería</a></li>
-			</ul>
+           
+            </ul>
 		</div>
 		<div class="grid_2">
 			<ul>
-				<li><a href="#">Series</a></li>
-				<li><a href="#">Biblicomania</a></li>
+            <img src="./redes/facebook.png">
+            <img src="./redes/twitter.png">
+            <img src="./redes/youtube.png">
+			<img src="./redes/g+.png">
+            <img src="./redes/flickr.png">
+            <img src="./redes/vine.png">
 			</ul>
 		</div>
 		<div class="grid_2">
