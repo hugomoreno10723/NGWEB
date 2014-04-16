@@ -587,6 +587,13 @@ a.gal:hover img {
 	color: #263555;
 	text-align:left;
 }
+.incisos {		/*Artículo incisos, tamaño*/
+	font-size: 16.5px;
+	line-height: 19px;
+	color: #263555;
+	text-align:left;
+	font-weight:bold;
+}
 
 .page1 .text1 {
 	font-size: 16.8px;

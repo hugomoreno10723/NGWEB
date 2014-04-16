@@ -20,7 +20,7 @@
      <style>
 	 .share-button { margin:auto; position:relative; top: 1; left: 0; bottom: 0; right: 0; }
 	 </style>
-     <div id="fb-root"></div>
+
 
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>

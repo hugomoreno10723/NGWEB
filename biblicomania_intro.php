@@ -6,6 +6,7 @@
      <script src="js/jquery.equalheights.js"></script>
      <script src="js/jquery.easing.1.3.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
+     <script src="js/share.min.js"></script>
      <script>
      $(window).load(function(){
        $().UItoTop({ easingType: 'easeOutQuart' });
@@ -14,22 +15,10 @@
       
       
      </script>
-     <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1&appId=176010679219733";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+    <?php include('./includes/fb.php'); ?>
+     <style>
+	 .share-button { margin:auto; position:relative; top: 1; left: 0; bottom: 0; right: 0; }
+	 </style>
 </head>
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
@@ -101,21 +90,15 @@ Con lo anterior encontramos que el Antiguo Testamento es la porción de la Bibli
           <li>
             <div class="count">1</div>
             <div class="extra_wrapper">
-              <div class="text1"><a href="./biblicomania_tema1.php">La Biblia es la palabra de Dios. </a></div>
+              <div class="text1"><a href="./biblicomania_tema1.php">La Biblia es la palabra de Dios parte 1. </a></div>
             </div>
           </li>
           <li>
             <div class="count">2</div>
             <div class="extra_wrapper">
-              <div class="text1"><a href="#">Aellentesque omperdie. </a></div>Fuisque sed quam justo. Cngueteri sed turpis nec lacinia. Nulla facilisi. Ut sit amet gravida tellus. Morbi idy consequat eros. Vivamus imperdiet
-            </div>
+              <div class="text1"><a href="./biblicomania_tema2.php">La Biblia es la palabra de Dios parte 2. </a></div>
           </li>
-          <li>
-            <div class="count">3</div>
-            <div class="extra_wrapper">
-              <div class="text1"><a href="#">Grellentesque imperdik. </a></div>Yisque sed quam justo. Nullaongue sed turpis nec lacinia. Julla facilisi. Ut sit amet gravida tellus. Morbi idy consequat erosamus imperdiet. 
-            </div>
-          </li>
+         
         </ul><br/><br/><br/>
         <div class="text1">Autor del artículo.</div>Omar Llamas. 
       </div>
@@ -127,31 +110,35 @@ Con lo anterior encontramos que el Antiguo Testamento es la porción de la Bibli
       <div class="clear"></div>
       <div class="grid_9">
         <h3 class="head1">Agrega tu comentario</h3>
-        <div class="fb-comments" data-href="http://ngmexico.com/ngjovenes/biblicomania" data-width="520" data-num-posts="10"></div>
+        <div class="fb-comments" data-href="http://ngmexico.com/ngjovenes/biblicomania" data-width="580" data-num-posts="10"></div>
         <div class="clear"></div>
       </div>
       <div class="grid_3">
-        <h3 class="head1">Comparte en las redes sociales</h3>
-        <blockquote>
-          <div class="fb-like" data-href="http://ngmexico.com/NGWEB/biblicomania_intro.php" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>  <br/><br/>
-          <a href="https://twitter.com/share" class="twitter-share-button" data-via="NuevaGen_Mexico" data-lang="es" data-hashtags="biblicomania">Twittear</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> <br/><br/>
-
-<!-- Inserta esta etiqueta donde quieras que aparezca Botón Compartir. -->
-<div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-height="60"></div>
-
-<!-- Inserta esta etiqueta después de la última etiqueta de compartir. -->
-<script type="text/javascript">
-  window.___gcfg = {lang: 'es'};
-
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/platform.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-          
-        </blockquote>
+        <h3 class="head1"></h3>
+        <blockquote><br/><br/>
+        <div id="share-button-top" class='share-button share-button-top'></div>
+  <script>
+    var share = new Share("#share-button-top", {
+      networks: {
+        facebook: {
+          app_id: "176010679219733",
+		  title: "Tema 1 de biblicomania.",
+		  url: "http://ngmexico.com/jovenes/series.html",
+		  caption: "Las dos generaciones",
+		  image: "http://ngmexico.com/NGWEB/images/LNG.png",
+		  text: "blabla",
+        },
+		twitter: {
+      url: "http://ngmexico.com/jovenes/series.html",
+      text: "Escucha los distintos temas que diferentes predicadores han expuesto con nosotros.",
+    },
+	google_plus: {
+      url: "http://ngmexico.com/jovenes/series.html",
+    },
+      }
+    });
+  </script>
+  </blockquote>
       </div>
       <div class="clear"></div>
   </div>

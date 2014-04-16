@@ -22,7 +22,7 @@
       
       
      </script>
-     <div id="fb-root"></div>
+     
 <?php include('./includes/fb.php'); ?>
      <style>
 	 .share-button { margin:auto; position:relative; top: 1; left: 0; bottom: 0; right: 0; }

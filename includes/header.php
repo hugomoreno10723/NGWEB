@@ -28,6 +28,7 @@
                                      <ul>
 												<li><a href="./biblicomania_intro.php">Intro</a></li>
 												<li><a href="./biblicomania_tema1.php">Tema 1</a></li>
+                                                <li><a href="./biblicomania_tema2.php">Tema 2</a></li>
 										
 									</ul>
                                      </li>
