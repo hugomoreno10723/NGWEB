@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="" target="_blank"> la biblia sigue teniendo la razón parte 1-omar llamas</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px; font-weight:bold;" >     <a href="" target="_blank"> la biblia sigue teniendo la razón parte 1-omar llamas</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2346753_2_1.html?data=k5ihmJyZd46ZmKiakpaJd6KklIqgo5qVcYarpJKfj4qbh46kjoqkpZKUcYarpJK5w5CmrcPgysaY1c7Lucaf1crby8rSqNCfzcaY1MbeaaSnhqeg0JDUpdPoxpCej4qbh47C1srjw5Crqc%2FZ08bQy4qnd4a2lNOah5yncZU%3D&"></iframe>
@@ -70,7 +70,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!e44HEbgA!Gcv1knuT8_Z2ZlEwrzDrS1RXc11nB4g3NSHfst6kCMM" target="_blank"> la biblia sigue teniendo la razón parte 2-omar llamas</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px; font-weight:bold;" >     <a href="https://mega.co.nz/#!e44HEbgA!Gcv1knuT8_Z2ZlEwrzDrS1RXc11nB4g3NSHfst6kCMM" target="_blank"> la biblia sigue teniendo la razón parte 2-omar llamas</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2346936_2_1.html?data=k5ihmJ6Xeo6ZmKial5iJd6Knl5KSmaiRdo6ZmKiakpKJe6ShkZKSmaiRkMKfo87Pzs7Fb9TdyNrSjdnJssrZz8ncjdHFb9PV24qwlYqmd8%2Bf0cbf1sqPdo6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
@@ -78,7 +78,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!714lxKzI!bM91PlTnvyitV5kt-iCQrjj8jZ9wof8h-xWYsZDIMds" target="_blank"> ¿entonces que con la ley?-janette arroyo</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px; font-weight:bold;" >     <a href="https://mega.co.nz/#!714lxKzI!bM91PlTnvyitV5kt-iCQrjj8jZ9wof8h-xWYsZDIMds" target="_blank"> ¿entonces que con la ley?-janette arroyo</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2349088_2_1.html?data=k5ihm5WcfI6ZmKiakpaJd6KklIqgo5eccYarpJKfj4qbh46kjoqkpZKUcYarpJKy0NnTssTZ1JDe18qPp9DijNHOjdHJvY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
@@ -86,7 +86,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!6x5FWbzR!Mnyg02NQkDQ--8w-79J7yVyGuLksyIF6CfWbRJ4ozsc" target="_blank"> ¿qué significa la palabra de Dios para ti?-janette arroyo</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px; font-weight:bold;" >     <a href="https://mega.co.nz/#!6x5FWbzR!Mnyg02NQkDQ--8w-79J7yVyGuLksyIF6CfWbRJ4ozsc" target="_blank"> ¿qué significa la palabra de Dios para ti?-janette arroyo</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2349175_2_1.html?data=k5ihm5abeY6ZmKiakpaJd6KllYqgo5eZcYarpJKfj4qbh46kjoqkpZKUcYarpJKSpZeJhqfF1oqwlYqlfYznyszby8vNp8KfzcaYssbQpcPmwpDRx5CordDnjNXO1MaPuMqZlKuah5ynca%2FpxtvOjazJssbmwsjWh6iXaaOnz5KSmaiReA%3D%3D&"></iframe>

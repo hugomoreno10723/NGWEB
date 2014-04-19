@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 18px;" >     <a href="https://mega.co.nz/#!O0QlSYrI!WZ7B5QFXIxkoANVRKo08qgctEM0thjZjUapZhCrP0U8" target="_blank" style="font-weight:bold;"> el mejor regalo</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px;" >     <a href="https://mega.co.nz/#!O0QlSYrI!WZ7B5QFXIxkoANVRKo08qgctEM0thjZjUapZhCrP0U8" target="_blank" style="font-weight:bold;"> el mejor regalo</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2656393_2_1.html?data=k5uimJidd46ZmKialpWJd6KolpKSmaiRdo6ZmKiakpKJe6ShkZKSmaiRic2fzsrX0dePtsbbwtHcj4qbh47C1srjw5Crqc%2FZ08bQy4qnd4a2lNOah5yncZU%3D&"></iframe>

@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 18px;" >     <a href="https://mega.co.nz/#!K0RFlBRa!vnQd9EAL4uowJfUtmA13gy3Vm_2668BRJ-veoD7J4nQ" target="_blank" style="font-weight:bold;"> entrevista</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px;" >     <a href="https://mega.co.nz/#!K0RFlBRa!vnQd9EAL4uowJfUtmA13gy3Vm_2668BRJ-veoD7J4nQ" target="_blank" style="font-weight:bold;"> entrevista</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_3022381_2_1.html?data=lJWflJicdY6ZmKialp6Jd6KplJKSmaiRdo6ZmKiakpKJe6ShkZKSmaiRic%2Fo08rjy9jYpY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>

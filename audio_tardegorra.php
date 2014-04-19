@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!q9RxBQqS!asfDcVaisDoDI_so0fiJxG25MMJR7eMMKxpgvIhr3k8" target="_blank"> vencidos por su amor y su gracia</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px; font-weight:bold;" >     <a href="https://mega.co.nz/#!q9RxBQqS!asfDcVaisDoDI_so0fiJxG25MMJR7eMMKxpgvIhr3k8" target="_blank"> vencidos por su amor y su gracia</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2352623_2_1.html?data=k5iilJuWd46ZmKiakpaJd6Klmoqgo5qbcYarpJKfj4qbh46ljoqkpZKUcYarpJLDx9PHrcXj1JDd0dePt9afwtLc1JDdb9TpjMzfw8jNpY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
