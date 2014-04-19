@@ -48,7 +48,7 @@
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/congre14_350x200.jpg" alt="" width="350" height="200">
         <div class="mask">
              <h2>EL CONOCIMIENTO DE CRISTO</h2>
-             <p>Te invitamos a escuchar y/o descargar la serie que Janette Arroyo comparte a los Jóvenes. </p>
+             <p>Revive los temas de nuestro congreso 2014 por los expositores Janette Arroyo y Cristóbal Cruz. </p>
                  <a href="./audio_conocimiento.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
@@ -77,8 +77,8 @@ Adrián Hernández compartió este tema.
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>VUÉLVETE A MI LEY</h2>
-             <p>Escucha, descarga y comparte los temas compartidos
-Por Janette Arroyo y Omar Llamas en el 
+             <p>Escucha, descarga y comparte los temas impartidos
+por: Janette Arroyo y Omar Llamas en el 
 Congreso 2013.</p>
                  <a href="./audio_vlm.php" class="info" target="_self">Ver más</a>
              </div>
@@ -94,14 +94,14 @@ Escucha y descarga
              </div>
 		</div>
       </div>
-      <div class="grid_4">
+     <!-- <div class="grid_4">
          <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/Libertad2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>FIRMES EN LA LIBERTAD</h2>
              <p>“Cristo nos libertó para que vivamos en libertad. Por lo tanto, manteneos firmes y no os sometáis nuevamente al yugo de esclavitud” Gálatas 5:1.</p>
                  <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
              </div>
 		</div>
-      </div>
+      </div>-->
    <!--   <div class="clear"></div>
       <div class="grid_4">
         <a href="images/big7.jpg" class="gal img_inner"><img src="images/page3_img7.jpg" alt=""></a>

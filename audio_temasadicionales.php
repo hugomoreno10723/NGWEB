@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!e9IkAQrC!NRH1xnsp_XVVenME8uJhI1vukBECzwmZJNjmn9sx92g" target="_blank"> las dos generaciones-vicky de olivares</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 18px;" >     <a href="https://mega.co.nz/#!e9IkAQrC!NRH1xnsp_XVVenME8uJhI1vukBECzwmZJNjmn9sx92g" target="_blank" style="font-weight:bold;"> las dos generaciones-vicky de olivares</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2490758_2_1.html?data=k5mmkpyZfI6ZmKiakpaJd6Kkk4qgo5mbcYarpJKfj4qbh46kjoqkpZKWcYarpJK5w9iPqNDnjMzS0MrWpcTd0NPS1ZORaZi3jrPix9vFb6jZz8rfw8jNaaSnhqeg0JKJe6ShlQ%3D%3D&"></iframe>
@@ -70,7 +70,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!C8xyDQCZ!VIDloW6xu2beunKirVNsyxatvU8i6Ez4ydqtZ6JDWHo" target="_blank"> de gusano a mariposa-Janette Arroyo</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 18px;" >     <a href="https://mega.co.nz/#!C8xyDQCZ!VIDloW6xu2beunKirVNsyxatvU8i6Ez4ydqtZ6JDWHo" target="_blank" style="font-weight:bold;"> de gusano a mariposa-Janette Arroyo</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2572869_2_1.html?data=k5qklJ2afY6ZmKiakpaJd6KlmYqgo5qbcYarpJKfj4qbh46mjoqkpZKUcYarpJKxx5DLudTVz9SYw5DRpdPd0dTgw5KJe6Shr9rS2MaPi8bixtfOxc6Jh5SZo5jbj4qbh46o&"></iframe>
@@ -86,7 +86,7 @@
      
       <div class="grid_3">
         <blockquote><br/><br/><br/>
-          <p class="text1">Te invitamos a descargar las conferencias que se impartieron durante el congreso de jóvenes 2013.</p>
+          <p class="text1" style="text-align:center">Puedes descargar y compartir los diferentes temas que serán de utilidad.</p>
           <div class="bq_bot">
             
           </div>

@@ -102,12 +102,12 @@
      
       <div class="grid_3">
         <blockquote><br/><br/><br/>
-          <p class="text1">Te invitamos a descargar las conferencias que se impartieron durante el congreso de jóvenes 2013.</p>
+          <p class="text1" style="text-align:center">Te invitamos a descargar las conferencias que se impartieron durante el Congreso de Jóvenes 2013.</p>
           <div class="bq_bot">
             
           </div>
-          <div class="text1">Conferencistas:</div>Janette Arroyo & Omar Llamas
-        </blockquote><br/><br/><br/>
+          <div class="text1">Conferencistas:</div>
+        Omar Llamas &amp; Janette Arroyo </blockquote><br/><br/><br/>
         <h3></h3>
          <div id="share-button-top" class='share-button share-button-top'></div>
   <script>

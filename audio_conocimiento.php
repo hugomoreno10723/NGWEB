@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 14px;" >     <a href="https://mega.co.nz/#!K0RFlBRa!vnQd9EAL4uowJfUtmA13gy3Vm_2668BRJ-veoD7J4nQ" target="_blank"> entrevista</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 18px;" >     <a href="https://mega.co.nz/#!K0RFlBRa!vnQd9EAL4uowJfUtmA13gy3Vm_2668BRJ-veoD7J4nQ" target="_blank" style="font-weight:bold;"> entrevista</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_3022381_2_1.html?data=lJWflJicdY6ZmKialp6Jd6KplJKSmaiRdo6ZmKiakpKJe6ShkZKSmaiRic%2Fo08rjy9jYpY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
@@ -78,11 +78,12 @@
      
       <div class="grid_3">
         <blockquote><br/><br/><br/>
-          <p class="text1">Te invitamos a descargar las conferencias que se impartieron durante el congreso de jóvenes 2013.</p>
+          <p class="text1" style="text-align:center">Te invitamos a descargar las predicaciones del Congreso de Jóvenes 2014.</p>
           <div class="bq_bot">
             
           </div>
-          <div class="text1">Conferencista:</div>Raúl Borboa
+          <div class="text1">Conferencista:</div>
+          Cristóbal Cruz y Janette Arroyo
         </blockquote><br/><br/><br/>
         <h3></h3>
          <div id="share-button-top" class='share-button share-button-top'></div>

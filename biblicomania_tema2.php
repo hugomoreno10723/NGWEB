@@ -94,17 +94,19 @@ Podríamos abundar más sobre este tema pues la discusión con los escépticos e
           <li>
             <div class="count">1</div>
             <div class="extra_wrapper">
-              <div class="text1"><a href="./biblicomania_intro.php">La palabra de Dios. </a></div>
+              <div class="text1" style="text-align:left;"><a href="./biblicomania_intro.php">La palabra de Dios</a></div>
             </div>
           </li>
           <li>
             <div class="count">2</div>
             <div class="extra_wrapper">
-              <div class="text1"><a href="./biblicomania_tema1.php">La Biblia es la palabra de Dios. </a></div>
+              <div class="text1" style="text-align:left;><a href="./biblicomania_tema1.php">La Biblia es la palabra de Dios</div>
           </li>
           
         </ul><br/><br/><br/>
-        <div class="text1">Autor del artículo.</div>Omar Llamas. 
+        <div class="text1" style="text-align:center;">Autor del artículo:</div> 
+        <div style="text-align:center;">
+        Omar Llamas</div> 
       </div>
                
       <div class="clear"></div>

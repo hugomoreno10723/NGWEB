@@ -49,8 +49,8 @@
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/leylibertad.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>LA LEY DE LA LIBERTAD</h2>
-             <p>Escucha y/o descarga el tema que Raúl Borboa compartió durante el evento.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
+             <p>Disfruta de las capturas de los tiempos de convivencia durante nuestra Cena Mexicana .2013.</p>
+                 <a href="./galeria_leylibertad.php" class="info" target="_self">VER MÁS</a>
              </div>
 		</div>
       </div>
@@ -58,17 +58,17 @@
         
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>VUÉLVETE A MI LEY</h2>
-             <p>Escucha y/o descarga los temas que se compartieron durante el evento.</p>
-                 <a href="./galeria_vml.php" class="info" target="_self">Ver más</a>
+             <p>Revive los momentos más significativos de nuestro Congreso 2013.</p>
+                 <a href="./galeria_vml.php" class="info" target="_self">VER MÁS</a>
              </div>
 		</div>
       </div>
       <div class="grid_4">
          <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/Libertad2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Firmes en la libertad</h2>
-             <p>Escucha y/o descarga el tema que Rito Llamas compartió durante el evento.</p>
-                 <a href="./galeria_libertad.php" class="info" target="_self">Ver más</a>
-             </div>
+             <p>Vuelve a vivir el festejo de nuestra libertad. Cena Mexicana 2012.</p>
+             <p><a href="./galeria_libertad.php" class="info" target="_self">VER MÁS</a>             </p>
+         </div>
 		</div>
       </div>
    <!--   <div class="clear"></div>

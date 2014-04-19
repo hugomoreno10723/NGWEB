@@ -47,7 +47,7 @@
       <div class="grid_9">
         <div class="">
           
-         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/regalo.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
+         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/gorra.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
           <p class="text1"><a href="#"> </a></p>
           <p><div class="CSSTableGenerator" >
                 <table >
@@ -78,7 +78,7 @@
      
       <div class="grid_3">
         <blockquote><br/><br/><br/>
-          <p class="text1">Te invitamos a descargar las conferencias que se impartieron durante el congreso de jóvenes 2013.</p>
+          <p class="text1" style="text-align:center">No te olvides de compartir la predicación que vivimos una "Tarde de Gorra".</p>
           <div class="bq_bot">
             
           </div>

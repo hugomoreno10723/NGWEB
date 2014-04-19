@@ -62,14 +62,14 @@
 				<div class="slider">
 					<a href="#" class="prev"></a><a href="#" class="next"></a>
 					<ul class="items">
-                    <li><img src="images/bienvenido.jpg" alt="">
+                    <li><img src="images/bienvenido.png" alt="">
                     <div class="banner">		<!--FIXME: No quitar porque se desconfigura la tabla de abajo-->								</div></li>
-						<li><img src="images/congre14.jpg" alt="">
+						<li><img src="images/conocimiento.jpg" alt="">
 								
 						</li>
 						
 						<li><img src="images/Youtube.jpg" alt=""></li>
-						<li><img src="images/bienvenido3.jpg" alt=""></li>
+						<li><img src="images/CafeConferencia.jpg" alt=""></li>
 					</ul>
 				</div>
 			</div>
@@ -92,19 +92,18 @@
 							“Bendeciré a Jehová en todo tiempo; 
 Su alabanza estará de continuo en mi boca”.
 <p align="right">Salmo 34:1 </p>
-Aquí encontrarás cantos de las reuniones de Jóvenes, las cuales podrás escuchar o descargar completamente gratis.<a href="" class="btn">Ver más</a>
+Aquí encontrarás cantos de las reuniones de Jóvenes, que podrás escuchar o descargar completamente gratis.<a href="./audio_vuelvete.php" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="grid_4">
 					<figure>
 						<div><img src="./images/DSC03953.JPG" alt=""></div>
-						<figcaption>
+					  <figcaption>
 							<h3>Galería</h3>
 					“¡Qué maravilloso y agradable es
     cuando los hermanos conviven en armonía!”   <br/>        <p align="right">Salmo 133:1</p>
-Da clic en este apartado y podrás disfrutar las capturas de los diferentes tiempos durante los eventos de jóvenes. 
-							<a href="" class="btn">Ver más</a>
+Da clic en esta sección y disfruta de momentos inolvidables en los distintos eventos.<a href="./galeria.php" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
@@ -115,7 +114,7 @@ Da clic en este apartado y podrás disfrutar las capturas de los diferentes tiem
 							<h3>Biblicomania</h3>
                             “Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia...”. 
 <p align="right">2a Timoteo 3:16-17</p>
-							Lee, medita y comparte el estudio de la Palabra, que siempre será de edificación para nuestras vidas. 
+							Lee, medita y comparte el estudio de la Palabra de Dios, que siempre será de edificación para nuestras vidas. 
 							<a href="./biblicomania_intro.php" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
@@ -137,18 +136,18 @@ Da clic en este apartado y podrás disfrutar las capturas de los diferentes tiem
 			<p class="style1">Escucha, descarga y comparte las predicaciones del congreso 2014. <br/><br/>Ingresa a través del siguiente enlace:</p>
 			
 
-<a href="#" class="btn">Ver más</a>
+<a href="./audio_conocimiento.php" class="btn">Ver más</a>
 <div class="clear "></div>
 
 		</div>
 		<div class="clear cl1"></div>
-		<img src="images/vuelvete.jpg" alt="">
+		<img src="images/vuelvetebanner.jpg" alt="" width="262" height="173"px>
 		<div class="extra_wrapper">
 			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
 			<p class="style1">Si te lo perdiste o deseas revivirlo; escucha o descarga <br/>las predicaciones del congreso 2013. ¡Compártelo!<br/><br/>Ingresa a través del siguiente enlace:  </p>
 			
 
-<a href="#" class="btn">Ver más</a>
+<a href="./audio_vlm.php" class="btn">Ver más</a>
 			<div class="clear "></div>
 
 		</div>	<br/>
@@ -170,7 +169,8 @@ document.write('<object width="'+ancho_vid+'" height="'+alto_vid+'"><param name=
 </script></center>
 		<div class="extra_wrapper">
 			<div class="text1"><br/>Canal del Ministerio. </div>
-			<p class="style1">En esta sección encontrarás material útil de edificación para ti y para otros. <br/>¡Comparte, escucha y suscríbete!</p>
+			<p class="style1">En esta sección encontrarás material  de edificación. <br/>
+			  ¡Comparte, escucha y suscríbete!</p>
 <a href="http://www.youtube.com/nuevageneracionmx" class="btn">Ver más</a>
 <div class="clear "></div>
 
@@ -183,9 +183,10 @@ document.write('<object width="'+ancho_vid+'" height="'+alto_vid+'"><param name=
 <img src="images/vuelvete.jpg" alt="">
 		<div class="extra_wrapper"><br/>
 			<!--<div class="text1">Sesión de alabanza. </div>-->
-			<p class="style1">Aquí encontrarás música, letras y acordes que podrás;<br/> descargar, escuchar y compartir.</p>
+			<p class="style1">Aquí encontrarás los audios, letra y acordes de los cantos de alabanza y adoración.<br/>
+			  ¡Descarga, escucha y comparte!</p>
 			<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_1.html"></iframe><br/>
-<a href="#" class="btn">Ver más</a>
+<a href="./audio_vuelvete.php" class="btn">Ver más</a>
 <div class="clear "></div>
 
 		</div>
