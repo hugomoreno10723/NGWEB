@@ -69,7 +69,7 @@ a.prev, a.next {
 	bottom: 49px;
 	z-index: 999;
 	left: 980px;
-
+    opacity: 0.5;
 }
 
 a.next {

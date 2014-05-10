@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 16px;" >     <a href="https://mega.co.nz/#!O0QlSYrI!WZ7B5QFXIxkoANVRKo08qgctEM0thjZjUapZhCrP0U8" target="_blank" style="font-weight:bold;"> el mejor regalo</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 22px;" >     <a href="https://mega.co.nz/#!O0QlSYrI!WZ7B5QFXIxkoANVRKo08qgctEM0thjZjUapZhCrP0U8" target="_blank" style="font-weight:bold;"> el mejor regalo</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2656393_2_1.html?data=k5uimJidd46ZmKialpWJd6KolpKSmaiRdo6ZmKiakpKJe6ShkZKSmaiRic2fzsrX0dePtsbbwtHcj4qbh47C1srjw5Crqc%2FZ08bQy4qnd4a2lNOah5yncZU%3D&"></iframe>
@@ -78,11 +78,11 @@
      
       <div class="grid_3">
         <blockquote><br/><br/><br/>
-          <p class="text1" style="text-align:center">Descarga esta predicación navideña y revive &quot;El Mejor Regalo&quot;.</p>
+          <p class="text1" style="text-align:center">¡Descarga y comparte!</p>
           <div class="bq_bot">
             
           </div>
-          <div class="text1">Conferencista:</div>Adrián Hernández
+          <div class="text1" >Conferencista:</div><div style="font-size:17px; font-family: 'Tauri', sans-serif;">Adrián Hernández</div>
         </blockquote><br/><br/><br/>
         <h3></h3>
          <div id="share-button-top" class='share-button share-button-top'></div>

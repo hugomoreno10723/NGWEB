@@ -508,6 +508,8 @@ a.gal:hover img {
 	color: #000;
 	line-height: 19px;
 	text-align: center;
+	font-size: 18px;
+	font-family: 'Overlock', sans-serif;
 }
 
 .style1 a {
@@ -554,14 +556,16 @@ a.gal:hover img {
 #tabs ul li a {
 	display: block;
 	padding: 6px 0 4px;
-	font: 24px/28px 'Pathway Gothic One', sans-serif;
+	font: 29px/33px 'Pathway Gothic One', sans-serif;
 	text-transform: uppercase;
 }
 
 .text1 {
-	font-size: 16px;
+	font-size: 22px;
 	line-height: 19px;
 	color: #263555;
+	font-family: 'Overlock', sans-serif;
+	font-weight: bold;
 }
 .textContent {		/*Artículo text, tamaño*/
 	font-size: 14.5px;

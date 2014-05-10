@@ -12,7 +12,7 @@
            <a href="https://www.youtube.com/nuevageneracionmx"> <img src="./redes/youtube.png"></a>
 			<a href="https://plus.google.com/+Ngmexicocdo"><img src="./redes/g+.png"></a>
             <a href="https://flickr.com/ngmexico"><img src="./redes/flickr.png"></a>
-            <!--<img src="./redes/vine.png">-->
+            <a href="http://nuevageneracion.ivoox.com"><img src="./redes/ivoox32.png"></a>
 			</ul>
 		</div>
 		<div class="grid_2">

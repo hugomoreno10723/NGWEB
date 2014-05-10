@@ -44,12 +44,20 @@
 <div class="content">
   <div class="container_12">
        <div class="gallery">
+         <div class="grid_4">
+        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/congre520x364.jpg" alt="" width="360" height="200"><div class="mask">
+             <h2>El Conocimiento de Cristo</h2>
+             <p>Comparte los temas que impartieron los oradores durante el congreso de jóvenes 2014..</p>
+                 <a href="./videos_ecc.php" class="info" target="_self">Ver más</a>
+             </div>
+		</div>
+      </div>
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;">
         	<img src="images/TEMAS_ADICIONALES.jpg" alt="" width="350" height="200">
             <div class="mask">
              <h2>Temas adicionales</h2>
-             <p>Disfruta de los temas que tenemos para ti en esta sección. </p>
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Distintos temas impartidos por oradores invitados a nuestras Reuniones de Jóvenes. </p>
                  <a href="./videos_temasadicionales.php" class="info" target="_self">VER MÁS</a>
              </div>
 		</div>
@@ -57,7 +65,9 @@
       <div class="grid_4">
       	<div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Congreso 2013</h2>
-             <p>Revive las plenarias que Janette Arroyo y Omar Llamas compartieron en el Congreso 2013.</p>
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Descarga y comparte los temas impartidos
+por:  Omar Llamas y Janette Arroyo en el 
+Congreso 2013.</p>
                  <a href="./videos_vlm.php" class="info" target="_self">VER MÁS</a>
              </div>
 		</div>
@@ -65,20 +75,14 @@
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/gorra2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Tarde de gorra</h2>
-             <p>Disfruta el tema que Raúl Borboa compartió con nosotros una &quot;Tarde de Gorra&quot;.</p>
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Raúl Borboa estuvo con nosotros compartiendo el tema: “Vencidos por su amor y su gracia”.
+Descarga y comparte.</p>
                  <a href="./videos_tardegorra.php" class="info" target="_self">VER MÁS</a>
              </div>
 		</div>
       </div>
       <div class="clear"></div>
-    <!--  <div class="grid_4">
-        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/Libertad2.jpg" alt="" width="360" height="200"><div class="mask">
-             <h2>Firmes en la libertad</h2>
-             <p>Visualiza el tema que Rito Llamas compartió durante el evento.</p>
-                 <a href="http://webstutorial.com" class="info" target="_blank">Ver más</a>
-             </div>
-		</div>
-      </div>-->
+    
      <!-- <div class="grid_4">
        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/Libertad2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>Firmes en la libertad</h2>

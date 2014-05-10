@@ -62,7 +62,7 @@
                     </tr>
                     <tr>
                         <td >
-                         <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 18px;" ><a href="https://mega.co.nz/#!KohHya4Q!SM2VJlv9k5ayX4rlrjC38ximpIokurhJyizo06RwJng"  target="_blank" style="font-weight:bold;"> sesión de alabanza</a></div>
+                         <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 22px;" ><a href="https://mega.co.nz/#!KohHya4Q!SM2VJlv9k5ayX4rlrjC38ximpIokurhJyizo06RwJng"  target="_blank" style="font-weight:bold;"> sesión de alabanza</a></div>
                         </td>
                         <td>
                            <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_2_1.html?data=k5iil5aXeI6ZmKial5qJd6Kok5KSmaiRdo6ZmKiakpKJe6ShkZKSmaiRl8bnyoqwlYqmd8%2BfxcqYo9HFpsLi28aah5ynca%2FpxtvOjazJssbmwsjWh6iXaaOnz5KSmaiReA%3D%3D&"></iframe>
@@ -78,12 +78,12 @@
      
       <div class="grid_3">
         <blockquote><br/><br/><br/>
-          <p class="text1" style="text-align:center">Recuerda que puedes descargar completamente gratis las alabanzas del Congreso de Jóvenes 2013.</p>
+          <p class="text1" style="text-align:center; font-size:20px;">¡Comparte y descarga!</p>
           <div class="bq_bot">
             
           </div>
-          <div class="text1">Director de alabanza:</div>
-          Janette Arroyo</blockquote><br/><br/><br/>
+          <div class="text1" style="font-size:20px;">Director de alabanza:</div>
+          <div style="font-size:17px; font-family: 'Tauri', sans-serif;">Janette Arroyo</div></blockquote><br/><br/><br/>
         <h3></h3>
          <div id="share-button-top" class='share-button share-button-top'></div>
   <script>

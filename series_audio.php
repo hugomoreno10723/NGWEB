@@ -44,13 +44,22 @@
 <div class="content">
   <div class="container_12">
        <div class="gallery">
+       <div class="grid_4">
+        <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/cc280.jpg" alt="" width="350" height="200">
+        <div class="mask">
+             <h2>CAFÉ CONFERENCIA</h2>
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Escucha los distintos temas impartidos por oradores invitados.  </p>
+                 <a href="./audio_conocimiento.php" class="info" target="_self">Ver más</a>
+            </div>
+		</div>
+      </div>
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/congre14_350x200.jpg" alt="" width="350" height="200">
         <div class="mask">
              <h2>EL CONOCIMIENTO DE CRISTO</h2>
-             <p>Revive los temas de nuestro congreso 2014 por los expositores Janette Arroyo y Cristóbal Cruz. </p>
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Congreso de Jóvenes 2014. <br> Conferencistas: Cristóbal Cruz y <br>Janette Arroyo. </p>
                  <a href="./audio_conocimiento.php" class="info" target="_self">Ver más</a>
-             </div>
+            </div>
 		</div>
       </div>
       <div class="grid_4">
@@ -58,7 +67,7 @@
         	<img src="images/TEMAS_ADICIONALES.jpg" alt="" width="350" height="200">
             <div class="mask">
              <h2>TEMAS ADICIONALES</h2>
-             <p>Disfruta de los diversos temas que distintos oradores han compartido con nosotros. </p>
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Distintos temas impartidos por oradores invitados a nuestras Reuniones de Jóvenes. </p>
                  <a href="./audio_temasadicionales.php" class="info" target="_self">Ver más</a>
              </div>
 		</div>
@@ -66,8 +75,7 @@
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/regalo.jpg" alt="" width="350" height="200"><div class="mask">
              <h2>EL MEJOR REGALO</h2>
-             <p>Durante la cena navideña de Jóvenes de 2013
-Adrián Hernández compartió este tema. 
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Cena Navideña de Jóvenes 2013. Conferencista: Adrián Hernández.
 </p>
                  <a href="./audio_mejorregalo.php" class="info" target="_self">Ver más</a>
              </div>
@@ -77,8 +85,8 @@ Adrián Hernández compartió este tema.
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/vuelvete.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>VUÉLVETE A MI LEY</h2>
-             <p>Escucha, descarga y comparte los temas impartidos
-por: Janette Arroyo y Omar Llamas en el 
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Escucha, descarga y comparte los temas impartidos
+por:  Omar Llamas y Janette Arroyo en el 
 Congreso 2013.</p>
                  <a href="./audio_vlm.php" class="info" target="_self">Ver más</a>
              </div>
@@ -87,7 +95,7 @@ Congreso 2013.</p>
       <div class="grid_4">
         <div class="view view-sixth" style="margin:0 auto 30px;"><img src="images/gorra2.jpg" alt="" width="360" height="200"><div class="mask">
              <h2>TARDE DE GORRA</h2>
-             <p>Raúl Borboa estuvo con nosotros compartiendo el tema: “Vencidos por su amor y su gracia”.
+             <p style="font-weight:bold; color:black; background-color:rgba(234,222,185,0.80);">Raúl Borboa estuvo con nosotros compartiendo el tema: “Vencidos por su amor y su gracia”.
 Escucha y descarga
 </p>
                  <a href="./audio_tardegorra.php" class="info" target="_self">Ver más</a>

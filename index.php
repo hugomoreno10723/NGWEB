@@ -64,12 +64,12 @@
 					<ul class="items">
                     <li><img src="images/bienvenido.png" alt="">
                     <div class="banner">		<!--FIXME: No quitar porque se desconfigura la tabla de abajo-->								</div></li>
-						<li><img src="images/conocimiento.jpg" alt="">
+						<li><img src="images/CafeConferencia.png" alt="">
 								
 						</li>
 						
 						<li><img src="images/Youtube.jpg" alt=""></li>
-						<li><img src="images/CafeConferencia.jpg" alt=""></li>
+						<li><img src="images/conocimiento.png" alt=""></li>
 					</ul>
 				</div>
 			</div>
@@ -87,12 +87,13 @@
 		<div class="grid_4">
 					<figure>
 						<div><img src="./images/DSC00798.JPG" alt=""></div>
-						<figcaption>
+					  <figcaption>
 							<h3>Alabanza y adoración</h3>
-							“Bendeciré a Jehová en todo tiempo; 
+							<div style="font-size:14px; text-align:justify; font-family: 'Tauri', sans-serif;">“Bendeciré a Jehová en todo tiempo; 
 Su alabanza estará de continuo en mi boca”.
 <p align="right">Salmo 34:1 </p>
-Aquí encontrarás cantos de las reuniones de Jóvenes, que podrás escuchar o descargar completamente gratis.<a href="./audio_vuelvete.php" class="btn">Ver más</a>
+Aquí encontrarás cantos de las Reuniones de Jóvenes, que podrás escuchar o descargar.</div>
+<a href="./audio_vuelvete.php" class="btn" >Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
@@ -101,9 +102,11 @@ Aquí encontrarás cantos de las reuniones de Jóvenes, que podrás escuchar o d
 						<div><img src="./images/DSC03953.JPG" alt=""></div>
 					  <figcaption>
 							<h3>Galería</h3>
-					“¡Qué maravilloso y agradable es
+					<div style="font-size:14.5px; text-align:justify; font-family: 'Tauri', sans-serif;">“¡Qué maravilloso y agradable es
     cuando los hermanos conviven en armonía!”   <br/>        <p align="right">Salmo 133:1</p>
-Da clic en esta sección y disfruta de momentos inolvidables en los distintos eventos.<a href="./galeria.php" class="btn">Ver más</a>
+Da clic en esta sección y disfruta de momentos inolvidables en los distintos eventos.
+</div>
+<a href="./galeria.php" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
 				</div>
@@ -111,10 +114,11 @@ Da clic en esta sección y disfruta de momentos inolvidables en los distintos ev
 					<figure>
 						<div><img src="./images/DSC09062.JPG" alt=""></div>
 						<figcaption>
-							<h3>Biblicomania</h3>
-                            “Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia...”. 
+							<h3>Biblicomanía</h3>
+                            <div style="font-size:14.5px; text-align:justify; font-family: 'Tauri', sans-serif;">“Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia...”. 
 <p align="right">2a Timoteo 3:16-17</p>
-							Lee, medita y comparte el estudio de la Palabra de Dios, que siempre será de edificación para nuestras vidas. 
+							Lee, medita y comparte el estudio de la Palabra de Dios.</div>
+                             
 							<a href="./biblicomania_intro.php" class="btn">Ver más</a>
 						</figcaption>
 					</figure>
@@ -125,15 +129,15 @@ Da clic en esta sección y disfruta de momentos inolvidables en los distintos ev
 					 <div id="tabs">
 	<ul>
 		<li><a href="#tabs-1">Series</a></li>
-		<li><a href="#tabs-2">Vídeos</a></li>
+		<li><a href="#tabs-2">VIdeos</a></li>
 		<li><a href="#tabs-3">Música</a></li>
 	</ul>
 	<div class="clear"></div>
 	<div class="tab_cont" id="tabs-1"><br/>
-        <img src="images/CongreMini14.jpg" alt="">
+        <img src="images/CongreMini14.png" alt="" width="340" height="230"px>
 		<div class="extra_wrapper">
-			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
-			<p class="style1">Escucha, descarga y comparte las predicaciones del congreso 2014. <br/><br/>Ingresa a través del siguiente enlace:</p>
+			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>--><br/>
+			<p class="style1" >Escucha, descarga y comparte las predicaciones del Congreso 2014. <br/><br/>Ingresa a través del siguiente enlace:</p>
 			
 
 <a href="./audio_conocimiento.php" class="btn">Ver más</a>
@@ -141,10 +145,10 @@ Da clic en esta sección y disfruta de momentos inolvidables en los distintos ev
 
 		</div>
 		<div class="clear cl1"></div>
-		<img src="images/vuelvetebanner.jpg" alt="" width="262" height="173"px>
+		<img src="images/vuelvetebanner.jpg" alt="" width="340" height="230"px>
 		<div class="extra_wrapper">
-			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>-->
-			<p class="style1">Si te lo perdiste o deseas revivirlo; escucha o descarga <br/>las predicaciones del congreso 2013. ¡Compártelo!<br/><br/>Ingresa a través del siguiente enlace:  </p>
+			<!--<div class="text1"><p></p>Vuélvete a mi ley. </div>--><br/>
+			<p class="style1" >Si te lo perdiste escucha y/o descarga <br/>las predicaciones del Congreso 2013. ¡Compártelo!<br/><br/>Ingresa a través del siguiente enlace:  </p>
 			
 
 <a href="./audio_vlm.php" class="btn">Ver más</a>
@@ -168,7 +172,7 @@ var ran_number = Math.floor(ran_unrounded);
 document.write('<object width="'+ancho_vid+'" height="'+alto_vid+'"><param name="movie" value="http://www.youtube.com/v/'+vid[ran_number]+'&hl=es&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/'+vid[ran_number]+'&hl=es&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="'+ancho_vid+'" height="'+alto_vid+'"></embed></object>');
 </script></center>
 		<div class="extra_wrapper">
-			<div class="text1"><br/>Canal del Ministerio. </div>
+			<div class="text1"><br/>Canal Nueva Generación </div>
 			<p class="style1">En esta sección encontrarás material  de edificación. <br/>
 			  ¡Comparte, escucha y suscríbete!</p>
 <a href="http://www.youtube.com/nuevageneracionmx" class="btn">Ver más</a>
@@ -180,10 +184,10 @@ document.write('<object width="'+ancho_vid+'" height="'+alto_vid+'"><param name=
 	</div>
  <div class="tab_cont" id="tabs-3">
  <br/>
-<img src="images/vuelvete.jpg" alt="">
+<img src="images/vuelvete.jpg" alt="" width="340" height="230"px>
 		<div class="extra_wrapper"><br/>
 			<!--<div class="text1">Sesión de alabanza. </div>-->
-			<p class="style1">Aquí encontrarás los audios, letra y acordes de los cantos de alabanza y adoración.<br/>
+			<p class="style1">Aquí encontrarás los audios, <br/>letras y acordes de los cantos<br/> de alabanza y adoración.<br/>
 			  ¡Descarga, escucha y comparte!</p>
 			<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2355134_1.html"></iframe><br/>
 <a href="./audio_vuelvete.php" class="btn">Ver más</a>

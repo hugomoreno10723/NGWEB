@@ -9,7 +9,7 @@
 			</div>
 <div class="menu_block">
 					 <nav	class="" >
-						<ul class="sf-menu">
+						<ul class="sf-menu" >
 									 <li style=" background-color:rgba(209,17,53,0.69); padding:5px 5px 5px 5px; 
  border-radius:15px;" class="current"><a href="index.php">Inicio</a></li>
 									 <li style=" background-color:rgba(209,17,53,0.69); padding:5px 5px 5px 5px; 

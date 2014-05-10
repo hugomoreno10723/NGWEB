@@ -47,7 +47,7 @@
       <div class="grid_9">
         <div class="">
           
-         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/gorra.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
+         <center><div style="box-shadow: 10px 10px 5px #888888; width: 520px; left: 34px;  margin-left: 155px;"> <img src="images/Cafe-Conferencia.jpg" alt="" align="center" width="520" height="364"></div></center><br/>
           <p class="text1"><a href="#"> </a></p>
           <p><div class="CSSTableGenerator" >
                 <table >
@@ -56,16 +56,25 @@
                             Clic en el título para descarga:
                         </td>
                         <td >
-                            Escucha y/o descarga a través de ivoox:
+                            Escucha y/o descarga a través de los reproductores:
                         </td>
                         
                     </tr>
                     <tr>
                         <td >
-                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 22px; font-weight:bold;" >     <a href="https://mega.co.nz/#!q9RxBQqS!asfDcVaisDoDI_so0fiJxG25MMJR7eMMKxpgvIhr3k8" target="_blank"> vencidos por su amor y su gracia</a></div>
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 22px; font-weight:bold;" >     <a href="https://mega.co.nz/#!T8A33RjJ!JxPKlEzuFaJj09kRZvTQUoCfjTPp9re8d1Mj2dhGhro" target="_blank"> ¿con quién me casaré?</a></div>
                         </td>
                         <td>
-                           <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_2352623_2_1.html?data=k5iilJuWd46ZmKiakpaJd6Klmoqgo5qbcYarpJKfj4qbh46ljoqkpZKUcYarpJLDx9PHrcXj1JDd0dePt9afwtLc1JDdb9TpjMzfw8jNpY6ZmKiasNrJusKfqMrbx9fFp8qZpJiSpJjScYarpJKh&"></iframe>
+                           <iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_3102823_2_1.html?data=lJadlJ2Wd46ZmKiakpaJd6KklYqgo5eVcYarpJKfj4qbh46kjoqkpZKUcYarpJKSpZeJhqe30NOY09rNaaSnhqam0JDRqYzXwtjO1Iqnd4a1moqgqJKJe6Shr9rS2MaPi8bixtfOxc6Jh5SZo5jbj4qbh46o&"></iframe>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                      <div style="font-family: 'Carrois Gothic SC', sans-serif; font-size: 22px; font-weight:bold;" >     <a href="http://dl.firedrive.com/?alias=9FC18B75E26B84DE" target="_blank"> ¿con quién me casaré?<br/>(opción 2)</a></div>
+                        </td>
+                        <td>
+                      <!--     <iframe width="350" height="110" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148784037&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>-->
+                           <iframe width="350" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148784037&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
                         </td>
                     </tr>
                 </table>
@@ -82,7 +91,7 @@
           <div class="bq_bot">
             
           </div>
-          <div class="text1" style="font-size:20px;">Conferencista:</div><div style="font-size:17px; font-family: 'Tauri', sans-serif;">Raúl Borboa</div>
+          <div class="text1" style="font-size:20px;">Conferencista:</div><div style="font-size:17px; font-family: 'Tauri', sans-serif;">Rocío de Borboa</div>
         </blockquote><br/><br/><br/>
         <h3></h3>
          <div id="share-button-top" class='share-button share-button-top'></div>
